@@ -1,0 +1,13 @@
+{
+  "main": "app.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha --timeout=30000 ./test",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0",
+    "puppeteer": "^21.4.1",
+    "selenium-webdriver": "^4.14.0"
+  }
+}
