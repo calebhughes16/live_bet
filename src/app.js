@@ -3,8 +3,7 @@ const puppeteer = require("puppeteer");
 (async () => {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
-  const url =
-    "https://promo.nj.betmgm.com/en/promo/geolocator?orh=sports.betmgm.com";
+  const url = "https://www.cbssports.com/mlb/teams/TEX/texas-rangers/";
 
   await page.goto(url, { timeout: 50000 });
 

@@ -2,7 +2,7 @@
   "main": "app.js",
   "scripts": {
     "test": "node ./node_modules/mocha/bin/mocha --timeout=30000 ./test",
-    "start": "node app.js"
+    "start": "node src/app.js"
   },
   "dependencies": {
     "chai": "^4.3.10",
