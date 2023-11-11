@@ -10,6 +10,7 @@
     "mocha": "^10.2.0",
     "mysql": "^2.18.1",
     "puppeteer": "^21.4.1",
-    "selenium-webdriver": "^4.14.0"
+    "selenium-webdriver": "^4.14.0",
+    "ws": "^8.14.2"
   }
 }
