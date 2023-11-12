@@ -1,0 +1,130 @@
+[
+  {
+    "teamName": "Anaheim Ducks",
+    "teamAbbrev": "ANA"
+  },
+  {
+    "teamName": "Arizona Coyotes",
+    "teamAbbrev": "ARI"
+  },
+  {
+    "teamName": "Boston Bruins",
+    "teamAbbrev": "BOS"
+  },
+  {
+    "teamName": "Buffalo Sabres",
+    "teamAbbrev": "BUF"
+  },
+  {
+    "teamName": "Calgary Flames",
+    "teamAbbrev": "CGY"
+  },
+  {
+    "teamName": "Carolina Hurricanes",
+    "teamAbbrev": "CAR"
+  },
+  {
+    "teamName": "Chicago Blackhawks",
+    "teamAbbrev": "CHI"
+  },
+  {
+    "teamName": "Colorado Avalanche",
+    "teamAbbrev": "COL"
+  },
+  {
+    "teamName": "Columbus Blue Jackets",
+    "teamAbbrev": "CBJ"
+  },
+  {
+    "teamName": "Dallas Stars",
+    "teamAbbrev": "DAL"
+  },
+  {
+    "teamName": "Detroit Red Wings",
+    "teamAbbrev": "DET"
+  },
+  {
+    "teamName": "Edmonton Oilers",
+    "teamAbbrev": "EDM"
+  },
+  {
+    "teamName": "Florida Panthers",
+    "teamAbbrev": "FLA"
+  },
+  {
+    "teamName": "Los Angeles Kings",
+    "teamAbbrev": "LAK"
+  },
+  {
+    "teamName": "Minnesota Wild",
+    "teamAbbrev": "MIN"
+  },
+  {
+    "teamName": "Montréal Canadiens",
+    "teamAbbrev": "MTL"
+  },
+  {
+    "teamName": "Nashville Predators",
+    "teamAbbrev": "NSH"
+  },
+  {
+    "teamName": "New Jersey Devils",
+    "teamAbbrev": "NJD"
+  },
+  {
+    "teamName": "New York Islanders",
+    "teamAbbrev": "NYI"
+  },
+  {
+    "teamName": "New York Rangers",
+    "teamAbbrev": "NYR"
+  },
+  {
+    "teamName": "Ottawa Senators",
+    "teamAbbrev": "OTT"
+  },
+  {
+    "teamName": "Philadelphia Flyers",
+    "teamAbbrev": "PHI"
+  },
+  {
+    "teamName": "Pittsburgh Penguins",
+    "teamAbbrev": "PIT"
+  },
+  {
+    "teamName": "San Jose Sharks",
+    "teamAbbrev": "SJS"
+  },
+  {
+    "teamName": "Seattle Kraken",
+    "teamAbbrev": "SEA"
+  },
+  {
+    "teamName": "St. Louis Blues",
+    "teamAbbrev": "STL"
+  },
+  {
+    "teamName": "Tampa Bay Lightning",
+    "teamAbbrev": "TBL"
+  },
+  {
+    "teamName": "Toronto Maple Leafs",
+    "teamAbbrev": "TOR"
+  },
+  {
+    "teamName": "Vancouver Canucks",
+    "teamAbbrev": "VAN"
+  },
+  {
+    "teamName": "Vegas Golden Knights",
+    "teamAbbrev": "VGK"
+  },
+  {
+    "teamName": "Washington Capitals",
+    "teamAbbrev": "WSH"
+  },
+  {
+    "teamName": "Winnipeg Jets",
+    "teamAbbrev": "WPG"
+  }
+]
