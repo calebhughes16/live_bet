@@ -14,13 +14,13 @@ async function fetchData(url) {
 
   try {
     const response = await axios.request(options);
-    const data = await response.data.standings;
+    const data = await response.data.data;
 
     const teamInfo = data
       .map((team) => ({
-        teamName: team.teamName.default,
-        teamAbbrev: team.teamAbbrev.default,
-        teamID: team.teamID, // Assuming 'teamID' is the correct field name
+        teamName: team.fullName,
+        teamAbbrev: team.rawTricode,
+        teamID: team.id, // Assuming 'teamID' is the correct field name
       }))
       .sort((a, b) => a.teamName.localeCompare(b.teamName));
 
@@ -40,5 +40,5 @@ async function fetchData(url) {
   }
 }
 
-const url = "https://api-web.nhle.com/v1/standings/2023-11-10";
+const url = "https://api.nhle.com/stats/rest/en/team";
 fetchData(url);

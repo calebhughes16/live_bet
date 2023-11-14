@@ -1,13 +1,16 @@
 const mysql = require("mysql");
 const fs = require("fs");
 
+const dotenv = require("dotenv");
+dotenv.config();
+
 // MySQL connection setup
 const connection = mysql.createConnection({
-  host: "159.223.128.40",
-  user: "bookieadmin",
-  password: "ch16YMCMB*ZZLE",
-  database: "bookie",
-  port: 3306,
+  host: process.env.DB_HOST,
+  user: process.env.DB_USERNAME,
+  password: process.env.DB_PASSWORD,
+  database: process.env.DB_DATABASE,
+  port: process.env.DB_PORT,
 });
 
 // Connect to the MySQL server
