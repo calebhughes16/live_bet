@@ -20,22 +20,22 @@ async function fetchData(url, team, teamID, isFirstTeam) {
     ];
 
     const playerInfo = players.map((player) => ({
-      playerID: player.id,
+      playerID: player.id.toString(),
       longName: `${player.firstName.default} ${player.lastName.default}`,
       team: team,
-      teamID: teamID,
-      jerseyNum: player.sweaterNumber,
+      teamID: teamID.toString(),
+      jerseyNum: player.sweaterNumber.toString(),
       position: player.positionCode,
       // Add more fields as needed
     }));
 
     // Append to file
     if (isFirstTeam) {
-      fs.writeFileSync("playerData.json", "[\n", "utf8"); // Start of JSON array
+      fs.writeFileSync("../../data/players/nhl_players.json", "[\n", "utf8"); // Start of JSON array
     }
 
     fs.appendFileSync(
-      "playerData.json",
+      "../../data/players/nhl_players.json",
       JSON.stringify(playerInfo, null, 2) + (isFirstTeam ? "" : ",\n"),
       "utf8"
     );
@@ -45,7 +45,9 @@ async function fetchData(url, team, teamID, isFirstTeam) {
 }
 
 async function processTeams() {
-  const teamData = JSON.parse(fs.readFileSync("teamData.json", "utf8"));
+  const teamData = JSON.parse(
+    fs.readFileSync("../../data/teams/nhl_teams.json", "utf8")
+  );
   for (let i = 0; i < teamData.length; i++) {
     const team = teamData[i];
     const url = `https://api-web.nhle.com/v1/roster/${team.teamAbbrev}/current`;
@@ -53,7 +55,7 @@ async function processTeams() {
   }
 
   // End of JSON array
-  fs.appendFileSync("playerData.json", "\n]", "utf8");
+  fs.appendFileSync("../../data/players/nhl_players.json", "\n]", "utf8");
 }
 
 processTeams();
