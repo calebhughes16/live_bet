@@ -20,7 +20,7 @@ connection.connect((err) => {
 
   // Create the "players" table
   const createTableQuery = `
-    CREATE TABLE IF NOT EXISTS players (
+    CREATE TABLE IF NOT EXISTS players_nba (
       playerID VARCHAR(255) NOT NULL,
       longName VARCHAR(255) NOT NULL,
       team VARCHAR(255) NOT NULL,
@@ -34,6 +34,9 @@ connection.connect((err) => {
     if (err) throw err;
     console.log("Table created or already exists.");
   });
+
+  //   ALTER USER 'bookieadmin'@'localhost' IDENTIFIED WITH mysql_native_password BY 'ch16YMCMB*ZZLE';
+  // FLUSH PRIVILEGES;
 
   //   // Read the JSON file
   const playersData = JSON.parse(fs.readFileSync("data.json", "utf8"));
