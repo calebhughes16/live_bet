@@ -1,7 +1,9 @@
 var express = require('express');
-var nflController = require("../controllers/nflController");
 const router = express.Router();
+var teamController = require("../controllers/teamController");
+var playerController = require("../controllers/playerController");
 
-router.get('/current_season', nflController.getCurrentSeasonSchedule);
+router.get("/addNFLTeamsToDatabase", teamController.addNFLTeamsToDatabase);
+router.get("/addNFLPlayersToDatabase", playerController.addNFLPlayersToDatabase);
 
 module.exports = { router };
