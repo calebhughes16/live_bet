@@ -1,0 +1,297 @@
+[
+  {
+    "teamName": "Anaheim Ducks",
+    "teamAbbrev": "ANA",
+    "teamID": 24
+  },
+  {
+    "teamName": "Arizona Coyotes",
+    "teamAbbrev": "ARI",
+    "teamID": 53
+  },
+  {
+    "teamName": "Atlanta Flames",
+    "teamAbbrev": "AFM",
+    "teamID": 47
+  },
+  {
+    "teamName": "Atlanta Thrashers",
+    "teamAbbrev": "ATL",
+    "teamID": 11
+  },
+  {
+    "teamName": "Boston Bruins",
+    "teamAbbrev": "BOS",
+    "teamID": 6
+  },
+  {
+    "teamName": "Brooklyn Americans",
+    "teamAbbrev": "BRK",
+    "teamID": 51
+  },
+  {
+    "teamName": "Buffalo Sabres",
+    "teamAbbrev": "BUF",
+    "teamID": 7
+  },
+  {
+    "teamName": "Calgary Flames",
+    "teamAbbrev": "CGY",
+    "teamID": 20
+  },
+  {
+    "teamName": "California Golden Seals",
+    "teamAbbrev": "CGS",
+    "teamID": 56
+  },
+  {
+    "teamName": "Carolina Hurricanes",
+    "teamAbbrev": "CAR",
+    "teamID": 12
+  },
+  {
+    "teamName": "Chicago Blackhawks",
+    "teamAbbrev": "CHI",
+    "teamID": 16
+  },
+  {
+    "teamName": "Cleveland Barons",
+    "teamAbbrev": "CLE",
+    "teamID": 49
+  },
+  {
+    "teamName": "Colorado Avalanche",
+    "teamAbbrev": "COL",
+    "teamID": 21
+  },
+  {
+    "teamName": "Colorado Rockies",
+    "teamAbbrev": "CLR",
+    "teamID": 35
+  },
+  {
+    "teamName": "Columbus Blue Jackets",
+    "teamAbbrev": "CBJ",
+    "teamID": 29
+  },
+  {
+    "teamName": "Dallas Stars",
+    "teamAbbrev": "DAL",
+    "teamID": 25
+  },
+  {
+    "teamName": "Detroit Cougars",
+    "teamAbbrev": "DCG",
+    "teamID": 40
+  },
+  {
+    "teamName": "Detroit Falcons",
+    "teamAbbrev": "DFL",
+    "teamID": 50
+  },
+  {
+    "teamName": "Detroit Red Wings",
+    "teamAbbrev": "DET",
+    "teamID": 17
+  },
+  {
+    "teamName": "Edmonton Oilers",
+    "teamAbbrev": "EDM",
+    "teamID": 22
+  },
+  {
+    "teamName": "Florida Panthers",
+    "teamAbbrev": "FLA",
+    "teamID": 13
+  },
+  {
+    "teamName": "Hamilton Tigers",
+    "teamAbbrev": "HAM",
+    "teamID": 37
+  },
+  {
+    "teamName": "Hartford Whalers",
+    "teamAbbrev": "HFD",
+    "teamID": 34
+  },
+  {
+    "teamName": "Kansas City Scouts",
+    "teamAbbrev": "KCS",
+    "teamID": 48
+  },
+  {
+    "teamName": "Los Angeles Kings",
+    "teamAbbrev": "LAK",
+    "teamID": 26
+  },
+  {
+    "teamName": "Minnesota North Stars",
+    "teamAbbrev": "MNS",
+    "teamID": 31
+  },
+  {
+    "teamName": "Minnesota Wild",
+    "teamAbbrev": "MIN",
+    "teamID": 30
+  },
+  {
+    "teamName": "Montréal Canadiens",
+    "teamAbbrev": "MTL",
+    "teamID": 8
+  },
+  {
+    "teamName": "Montreal Maroons",
+    "teamAbbrev": "MMR",
+    "teamID": 43
+  },
+  {
+    "teamName": "Montreal Wanderers",
+    "teamAbbrev": "MWN",
+    "teamID": 41
+  },
+  {
+    "teamName": "Nashville Predators",
+    "teamAbbrev": "NSH",
+    "teamID": 18
+  },
+  {
+    "teamName": "New Jersey Devils",
+    "teamAbbrev": "NJD",
+    "teamID": 1
+  },
+  {
+    "teamName": "New York Americans",
+    "teamAbbrev": "NYA",
+    "teamID": 44
+  },
+  {
+    "teamName": "New York Islanders",
+    "teamAbbrev": "NYI",
+    "teamID": 2
+  },
+  {
+    "teamName": "New York Rangers",
+    "teamAbbrev": "NYR",
+    "teamID": 3
+  },
+  {
+    "teamName": "NHL",
+    "teamAbbrev": "NHL",
+    "teamID": 99
+  },
+  {
+    "teamName": "Oakland Seals",
+    "teamAbbrev": "OAK",
+    "teamID": 46
+  },
+  {
+    "teamName": "Ottawa Senators",
+    "teamAbbrev": "OTT",
+    "teamID": 9
+  },
+  {
+    "teamName": "Ottawa Senators (1917)",
+    "teamAbbrev": "SEN",
+    "teamID": 36
+  },
+  {
+    "teamName": "Philadelphia Flyers",
+    "teamAbbrev": "PHI",
+    "teamID": 4
+  },
+  {
+    "teamName": "Philadelphia Quakers",
+    "teamAbbrev": "QUA",
+    "teamID": 39
+  },
+  {
+    "teamName": "Phoenix Coyotes",
+    "teamAbbrev": "PHX",
+    "teamID": 27
+  },
+  {
+    "teamName": "Pittsburgh Penguins",
+    "teamAbbrev": "PIT",
+    "teamID": 5
+  },
+  {
+    "teamName": "Pittsburgh Pirates",
+    "teamAbbrev": "PIR",
+    "teamID": 38
+  },
+  {
+    "teamName": "Quebec Bulldogs",
+    "teamAbbrev": "QBD",
+    "teamID": 42
+  },
+  {
+    "teamName": "Quebec Nordiques",
+    "teamAbbrev": "QUE",
+    "teamID": 32
+  },
+  {
+    "teamName": "San Jose Sharks",
+    "teamAbbrev": "SJS",
+    "teamID": 28
+  },
+  {
+    "teamName": "Seattle Kraken",
+    "teamAbbrev": "SEA",
+    "teamID": 55
+  },
+  {
+    "teamName": "St. Louis Blues",
+    "teamAbbrev": "STL",
+    "teamID": 19
+  },
+  {
+    "teamName": "St. Louis Eagles",
+    "teamAbbrev": "SLE",
+    "teamID": 45
+  },
+  {
+    "teamName": "Tampa Bay Lightning",
+    "teamAbbrev": "TBL",
+    "teamID": 14
+  },
+  {
+    "teamName": "Toronto Arenas",
+    "teamAbbrev": "TAN",
+    "teamID": 57
+  },
+  {
+    "teamName": "Toronto Maple Leafs",
+    "teamAbbrev": "TOR",
+    "teamID": 10
+  },
+  {
+    "teamName": "Toronto St. Patricks",
+    "teamAbbrev": "TSP",
+    "teamID": 58
+  },
+  {
+    "teamName": "Vancouver Canucks",
+    "teamAbbrev": "VAN",
+    "teamID": 23
+  },
+  {
+    "teamName": "Vegas Golden Knights",
+    "teamAbbrev": "VGK",
+    "teamID": 54
+  },
+  {
+    "teamName": "Washington Capitals",
+    "teamAbbrev": "WSH",
+    "teamID": 15
+  },
+  {
+    "teamName": "Winnipeg Jets",
+    "teamAbbrev": "WPG",
+    "teamID": 52
+  },
+  {
+    "teamName": "Winnipeg Jets (1979)",
+    "teamAbbrev": "WIN",
+    "teamID": 33
+  }
+]

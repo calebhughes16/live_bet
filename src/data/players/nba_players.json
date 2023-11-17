@@ -1,0 +1,4242 @@
+[
+  {
+    "playerID": "20000441",
+    "longName": "Bradley Beal",
+    "team": "PHO",
+    "teamID": "29",
+    "jerseyNum": "3",
+    "position": "SG"
+  },
+  {
+    "playerID": "20000443",
+    "longName": "Otto Porter",
+    "team": "TOR",
+    "teamID": "10",
+    "jerseyNum": "32",
+    "position": "SF"
+  },
+  {
+    "playerID": "20000452",
+    "longName": "Garrett Temple",
+    "team": "TOR",
+    "teamID": "10",
+    "jerseyNum": "14",
+    "position": "SG"
+  },
+  {
+    "playerID": "20000455",
+    "longName": "Jonas Valanciunas",
+    "team": "NO",
+    "teamID": "23",
+    "jerseyNum": "17",
+    "position": "C"
+  },
+  {
+    "playerID": "20000456",
+    "longName": "DeMar DeRozan",
+    "team": "CHI",
+    "teamID": "11",
+    "jerseyNum": "11",
+    "position": "SF"
+  },
+  {
+    "playerID": "20000457",
+    "longName": "Kyle Lowry",
+    "team": "MIA",
+    "teamID": "4",
+    "jerseyNum": "7",
+    "position": "PG"
+  },
+  {
+    "playerID": "20000468",
+    "longName": "Anthony Davis",
+    "team": "LAL",
+    "teamID": "27",
+    "jerseyNum": "3",
+    "position": "C"
+  },
+  {
+    "playerID": "20000471",
+    "longName": "Eric Gordon",
+    "team": "PHO",
+    "teamID": "29",
+    "jerseyNum": "23",
+    "position": "SF"
+  },
+  {
+    "playerID": "20000474",
+    "longName": "Jrue Holiday",
+    "team": "BOS",
+    "teamID": "9",
+    "jerseyNum": "4",
+    "position": "PG"
+  },
+  {
+    "playerID": "20000482",
+    "longName": "Draymond Green",
+    "team": "GS",
+    "teamID": "26",
+    "jerseyNum": "23",
+    "position": "PF"
+  },
+  {
+    "playerID": "20000483",
+    "longName": "Harrison Barnes",
+    "team": "SAC",
+    "teamID": "30",
+    "jerseyNum": "40",
+    "position": "SF"
+  },
+  {
+    "playerID": "20000485",
+    "longName": "Stephen Curry",
+    "team": "GS",
+    "teamID": "26",
+    "jerseyNum": "30",
+    "position": "PG"
+  },
+  {
+    "playerID": "20000486",
+    "longName": "Klay Thompson",
+    "team": "GS",
+    "teamID": "26",
+    "jerseyNum": "11",
+    "position": "SG"
+  },
+  {
+    "playerID": "20000492",
+    "longName": "Justin Holiday",
+    "team": "DEN",
+    "teamID": "20",
+    "jerseyNum": "9",
+    "position": "SF"
+  },
+  {
+    "playerID": "20000497",
+    "longName": "Giannis Antetokounmpo",
+    "team": "MIL",
+    "teamID": "15",
+    "jerseyNum": "34",
+    "position": "PF"
+  },
+  {
+    "playerID": "20000500",
+    "longName": "Khris Middleton",
+    "team": "MIL",
+    "teamID": "15",
+    "jerseyNum": "22",
+    "position": "SF"
+  },
+  {
+    "playerID": "20000515",
+    "longName": "Jimmy Butler",
+    "team": "MIA",
+    "teamID": "4",
+    "jerseyNum": "22",
+    "position": "SF"
+  },
+  {
+    "playerID": "20000516",
+    "longName": "Derrick Rose",
+    "team": "MEM",
+    "teamID": "21",
+    "jerseyNum": "23",
+    "position": "PG"
+  },
+  {
+    "playerID": "20000522",
+    "longName": "Doug McDermott",
+    "team": "SA",
+    "teamID": "24",
+    "jerseyNum": "17",
+    "position": "SF"
+  },
+  {
+    "playerID": "20000539",
+    "longName": "Dwight Powell",
+    "team": "DAL",
+    "teamID": "25",
+    "jerseyNum": "7",
+    "position": "C"
+  },
+  {
+    "playerID": "20000544",
+    "longName": "James Harden",
+    "team": "LAC",
+    "teamID": "28",
+    "jerseyNum": "1",
+    "position": "SG"
+  },
+  {
+    "playerID": "20000549",
+    "longName": "Clint Capela",
+    "team": "ATL",
+    "teamID": "3",
+    "jerseyNum": "15",
+    "position": "C"
+  },
+  {
+    "playerID": "20000554",
+    "longName": "Patrick Beverley",
+    "team": "PHI",
+    "teamID": "7",
+    "jerseyNum": "22",
+    "position": "PG"
+  },
+  {
+    "playerID": "20000560",
+    "longName": "Marcus Smart",
+    "team": "MEM",
+    "teamID": "21",
+    "jerseyNum": "36",
+    "position": "PG"
+  },
+  {
+    "playerID": "20000562",
+    "longName": "Jae Crowder",
+    "team": "MIL",
+    "teamID": "15",
+    "jerseyNum": "99",
+    "position": "PF"
+  },
+  {
+    "playerID": "20000564",
+    "longName": "Kelly Olynyk",
+    "team": "UTA",
+    "teamID": "17",
+    "jerseyNum": "41",
+    "position": "PF"
+  },
+  {
+    "playerID": "20000571",
+    "longName": "LeBron James",
+    "team": "LAL",
+    "teamID": "27",
+    "jerseyNum": "23",
+    "position": "SF"
+  },
+  {
+    "playerID": "20000572",
+    "longName": "Kevin Love",
+    "team": "MIA",
+    "teamID": "4",
+    "jerseyNum": "42",
+    "position": "PF"
+  },
+  {
+    "playerID": "20000574",
+    "longName": "Kyrie Irving",
+    "team": "DAL",
+    "teamID": "25",
+    "jerseyNum": "11",
+    "position": "PG"
+  },
+  {
+    "playerID": "20000577",
+    "longName": "Tristan Thompson",
+    "team": "CLE",
+    "teamID": "12",
+    "jerseyNum": "12",
+    "position": "C"
+  },
+  {
+    "playerID": "20000584",
+    "longName": "Joe Harris",
+    "team": "DET",
+    "teamID": "14",
+    "jerseyNum": "31",
+    "position": "SG"
+  },
+  {
+    "playerID": "20000587",
+    "longName": "Thaddeus Young",
+    "team": "TOR",
+    "teamID": "10",
+    "jerseyNum": "21",
+    "position": "PF"
+  },
+  {
+    "playerID": "20000588",
+    "longName": "Brook Lopez",
+    "team": "MIL",
+    "teamID": "15",
+    "jerseyNum": "11",
+    "position": "C"
+  },
+  {
+    "playerID": "20000591",
+    "longName": "Bojan Bogdanovic",
+    "team": "DET",
+    "teamID": "14",
+    "jerseyNum": "44",
+    "position": "SF"
+  },
+  {
+    "playerID": "20000594",
+    "longName": "Mason Plumlee",
+    "team": "LAC",
+    "teamID": "28",
+    "jerseyNum": "44",
+    "position": "C"
+  },
+  {
+    "playerID": "20000603",
+    "longName": "Al Horford",
+    "team": "BOS",
+    "teamID": "9",
+    "jerseyNum": "42",
+    "position": "C"
+  },
+  {
+    "playerID": "20000606",
+    "longName": "Dennis Schroder",
+    "team": "TOR",
+    "teamID": "10",
+    "jerseyNum": "17",
+    "position": "PG"
+  },
+  {
+    "playerID": "20000613",
+    "longName": "Mike Muscala",
+    "team": "WAS",
+    "teamID": "1",
+    "jerseyNum": "35",
+    "position": "C"
+  },
+  {
+    "playerID": "20000617",
+    "longName": "Nicolas Batum",
+    "team": "PHI",
+    "teamID": "7",
+    "jerseyNum": "40",
+    "position": "PF"
+  },
+  {
+    "playerID": "20000618",
+    "longName": "Robin Lopez",
+    "team": "MIL",
+    "teamID": "15",
+    "jerseyNum": "42",
+    "position": "C"
+  },
+  {
+    "playerID": "20000619",
+    "longName": "Damian Lillard",
+    "team": "MIL",
+    "teamID": "15",
+    "jerseyNum": "0",
+    "position": "PG"
+  },
+  {
+    "playerID": "20000620",
+    "longName": "CJ McCollum",
+    "team": "NO",
+    "teamID": "23",
+    "jerseyNum": "3",
+    "position": "PG"
+  },
+  {
+    "playerID": "20000629",
+    "longName": "Wesley Matthews",
+    "team": "ATL",
+    "teamID": "3",
+    "jerseyNum": "32",
+    "position": "SG"
+  },
+  {
+    "playerID": "20000632",
+    "longName": "Jeff Green",
+    "team": "HOU",
+    "teamID": "22",
+    "jerseyNum": "32",
+    "position": "PF"
+  },
+  {
+    "playerID": "20000635",
+    "longName": "Mike Conley",
+    "team": "MIN",
+    "teamID": "16",
+    "jerseyNum": "10",
+    "position": "PG"
+  },
+  {
+    "playerID": "20000646",
+    "longName": "Kawhi Leonard",
+    "team": "LAC",
+    "teamID": "28",
+    "jerseyNum": "2",
+    "position": "SF"
+  },
+  {
+    "playerID": "20000655",
+    "longName": "Cory Joseph",
+    "team": "GS",
+    "teamID": "26",
+    "jerseyNum": "1",
+    "position": "PG"
+  },
+  {
+    "playerID": "20000656",
+    "longName": "Patty Mills",
+    "team": "ATL",
+    "teamID": "3",
+    "jerseyNum": "8",
+    "position": "PG"
+  },
+  {
+    "playerID": "20000659",
+    "longName": "Kyle Anderson",
+    "team": "MIN",
+    "teamID": "16",
+    "jerseyNum": "1",
+    "position": "SF"
+  },
+  {
+    "playerID": "20000663",
+    "longName": "DeAndre Jordan",
+    "team": "DEN",
+    "teamID": "20",
+    "jerseyNum": "6",
+    "position": "C"
+  },
+  {
+    "playerID": "20000664",
+    "longName": "Chris Paul",
+    "team": "GS",
+    "teamID": "26",
+    "jerseyNum": "3",
+    "position": "PG"
+  },
+  {
+    "playerID": "20000676",
+    "longName": "Tobias Harris",
+    "team": "PHI",
+    "teamID": "7",
+    "jerseyNum": "12",
+    "position": "SF"
+  },
+  {
+    "playerID": "20000678",
+    "longName": "Nikola Vucevic",
+    "team": "CHI",
+    "teamID": "11",
+    "jerseyNum": "9",
+    "position": "C"
+  },
+  {
+    "playerID": "20000679",
+    "longName": "Evan Fournier",
+    "team": "NY",
+    "teamID": "6",
+    "jerseyNum": "13",
+    "position": "SG"
+  },
+  {
+    "playerID": "20000681",
+    "longName": "Aaron Gordon",
+    "team": "DEN",
+    "teamID": "20",
+    "jerseyNum": "50",
+    "position": "PF"
+  },
+  {
+    "playerID": "20000689",
+    "longName": "Victor Oladipo",
+    "team": "HOU",
+    "teamID": "22",
+    "jerseyNum": "3",
+    "position": "SG"
+  },
+  {
+    "playerID": "20000708",
+    "longName": "Jordan Clarkson",
+    "team": "UTA",
+    "teamID": "17",
+    "jerseyNum": "0",
+    "position": "SG"
+  },
+  {
+    "playerID": "20000710",
+    "longName": "Julius Randle",
+    "team": "NY",
+    "teamID": "6",
+    "jerseyNum": "30",
+    "position": "PF"
+  },
+  {
+    "playerID": "20000726",
+    "longName": "Joel Embiid",
+    "team": "PHI",
+    "teamID": "7",
+    "jerseyNum": "21",
+    "position": "C"
+  },
+  {
+    "playerID": "20000727",
+    "longName": "Jerami Grant",
+    "team": "POR",
+    "teamID": "19",
+    "jerseyNum": "9",
+    "position": "PF"
+  },
+  {
+    "playerID": "20000742",
+    "longName": "Paul George",
+    "team": "LAC",
+    "teamID": "28",
+    "jerseyNum": "13",
+    "position": "SF"
+  },
+  {
+    "playerID": "20000754",
+    "longName": "Cody Zeller",
+    "team": "NO",
+    "teamID": "23",
+    "jerseyNum": "40",
+    "position": "C"
+  },
+  {
+    "playerID": "20000758",
+    "longName": "Bismack Biyombo",
+    "team": "MEM",
+    "teamID": "21",
+    "jerseyNum": "18",
+    "position": "C"
+  },
+  {
+    "playerID": "20000788",
+    "longName": "Tim Hardaway",
+    "team": "DAL",
+    "teamID": "25",
+    "jerseyNum": "10",
+    "position": "SF"
+  },
+  {
+    "playerID": "20000795",
+    "longName": "Andrew Wiggins",
+    "team": "GS",
+    "teamID": "26",
+    "jerseyNum": "22",
+    "position": "SF"
+  },
+  {
+    "playerID": "20000797",
+    "longName": "Ricky Rubio",
+    "team": "CLE",
+    "teamID": "12",
+    "jerseyNum": "13",
+    "position": "PG"
+  },
+  {
+    "playerID": "20000804",
+    "longName": "Zach LaVine",
+    "team": "CHI",
+    "teamID": "11",
+    "jerseyNum": "8",
+    "position": "SG"
+  },
+  {
+    "playerID": "20000810",
+    "longName": "Andre Drummond",
+    "team": "CHI",
+    "teamID": "11",
+    "jerseyNum": "3",
+    "position": "C"
+  },
+  {
+    "playerID": "20000811",
+    "longName": "Kentavious Caldwell-Pope",
+    "team": "DEN",
+    "teamID": "20",
+    "jerseyNum": "5",
+    "position": "SG"
+  },
+  {
+    "playerID": "20000816",
+    "longName": "Spencer Dinwiddie",
+    "team": "BKN",
+    "teamID": "8",
+    "jerseyNum": "26",
+    "position": "PG"
+  },
+  {
+    "playerID": "20000822",
+    "longName": "Danilo Gallinari",
+    "team": "WAS",
+    "teamID": "1",
+    "jerseyNum": "88",
+    "position": "PF"
+  },
+  {
+    "playerID": "20000827",
+    "longName": "Jusuf Nurkic",
+    "team": "PHO",
+    "teamID": "29",
+    "jerseyNum": "20",
+    "position": "C"
+  },
+  {
+    "playerID": "20000828",
+    "longName": "JaVale McGee",
+    "team": "SAC",
+    "teamID": "30",
+    "jerseyNum": "0",
+    "position": "C"
+  },
+  {
+    "playerID": "20000832",
+    "longName": "Gary Harris",
+    "team": "ORL",
+    "teamID": "5",
+    "jerseyNum": "14",
+    "position": "SG"
+  },
+  {
+    "playerID": "20000833",
+    "longName": "Gordon Hayward",
+    "team": "CHA",
+    "teamID": "2",
+    "jerseyNum": "20",
+    "position": "SF"
+  },
+  {
+    "playerID": "20000837",
+    "longName": "Alec Burks",
+    "team": "DET",
+    "teamID": "14",
+    "jerseyNum": "14",
+    "position": "SG"
+  },
+  {
+    "playerID": "20000840",
+    "longName": "Rudy Gobert",
+    "team": "MIN",
+    "teamID": "16",
+    "jerseyNum": "27",
+    "position": "C"
+  },
+  {
+    "playerID": "20000841",
+    "longName": "Dante Exum",
+    "team": "DAL",
+    "teamID": "25",
+    "jerseyNum": "0",
+    "position": "PG"
+  },
+  {
+    "playerID": "20000842",
+    "longName": "Joe Ingles",
+    "team": "ORL",
+    "teamID": "5",
+    "jerseyNum": "7",
+    "position": "SF"
+  },
+  {
+    "playerID": "20000847",
+    "longName": "Marcus Morris",
+    "team": "PHI",
+    "teamID": "7",
+    "jerseyNum": "5",
+    "position": "PF"
+  },
+  {
+    "playerID": "20000848",
+    "longName": "Markieff Morris",
+    "team": "DAL",
+    "teamID": "25",
+    "jerseyNum": "88",
+    "position": "PF"
+  },
+  {
+    "playerID": "20000852",
+    "longName": "Alex Len",
+    "team": "SAC",
+    "teamID": "30",
+    "jerseyNum": "25",
+    "position": "C"
+  },
+  {
+    "playerID": "20000856",
+    "longName": "P.J. Tucker",
+    "team": "LAC",
+    "teamID": "28",
+    "jerseyNum": "17",
+    "position": "PF"
+  },
+  {
+    "playerID": "20000875",
+    "longName": "Steven Adams",
+    "team": "MEM",
+    "teamID": "21",
+    "jerseyNum": "4",
+    "position": "C"
+  },
+  {
+    "playerID": "20000877",
+    "longName": "Russell Westbrook",
+    "team": "LAC",
+    "teamID": "28",
+    "jerseyNum": "0",
+    "position": "PG"
+  },
+  {
+    "playerID": "20000881",
+    "longName": "Reggie Jackson",
+    "team": "DEN",
+    "teamID": "20",
+    "jerseyNum": "7",
+    "position": "PG"
+  },
+  {
+    "playerID": "20000884",
+    "longName": "Kevin Durant",
+    "team": "PHO",
+    "teamID": "29",
+    "jerseyNum": "35",
+    "position": "PF"
+  },
+  {
+    "playerID": "20000896",
+    "longName": "Reggie Bullock",
+    "team": "HOU",
+    "teamID": "22",
+    "jerseyNum": "25",
+    "position": "SF"
+  },
+  {
+    "playerID": "20000901",
+    "longName": "Ish Smith",
+    "team": "CHA",
+    "teamID": "2",
+    "jerseyNum": "14",
+    "position": "PG"
+  },
+  {
+    "playerID": "20000903",
+    "longName": "Robert Covington",
+    "team": "PHI",
+    "teamID": "7",
+    "jerseyNum": "33",
+    "position": "SF"
+  },
+  {
+    "playerID": "20000933",
+    "longName": "Seth Curry",
+    "team": "DAL",
+    "teamID": "25",
+    "jerseyNum": "30",
+    "position": "SG"
+  },
+  {
+    "playerID": "20001389",
+    "longName": "Richaun Holmes",
+    "team": "DAL",
+    "teamID": "25",
+    "jerseyNum": "20",
+    "position": "PF"
+  },
+  {
+    "playerID": "20001393",
+    "longName": "Kelly Oubre",
+    "team": "PHI",
+    "teamID": "7",
+    "jerseyNum": "9",
+    "position": "SF"
+  },
+  {
+    "playerID": "20001400",
+    "longName": "Josh Richardson",
+    "team": "MIA",
+    "teamID": "4",
+    "jerseyNum": "0",
+    "position": "SG"
+  },
+  {
+    "playerID": "20001406",
+    "longName": "Kristaps Porzingis",
+    "team": "BOS",
+    "teamID": "9",
+    "jerseyNum": "8",
+    "position": "C"
+  },
+  {
+    "playerID": "20001413",
+    "longName": "Terry Rozier",
+    "team": "CHA",
+    "teamID": "2",
+    "jerseyNum": "3",
+    "position": "PG"
+  },
+  {
+    "playerID": "20001416",
+    "longName": "Norman Powell",
+    "team": "LAC",
+    "teamID": "28",
+    "jerseyNum": "24",
+    "position": "SG"
+  },
+  {
+    "playerID": "20001418",
+    "longName": "Delon Wright",
+    "team": "WAS",
+    "teamID": "1",
+    "jerseyNum": "55",
+    "position": "PG"
+  },
+  {
+    "playerID": "20001420",
+    "longName": "Bobby Portis",
+    "team": "MIL",
+    "teamID": "15",
+    "jerseyNum": "9",
+    "position": "PF"
+  },
+  {
+    "playerID": "20001421",
+    "longName": "Cedi Osman",
+    "team": "SA",
+    "teamID": "24",
+    "jerseyNum": "16",
+    "position": "SF"
+  },
+  {
+    "playerID": "20001424",
+    "longName": "Myles Turner",
+    "team": "IND",
+    "teamID": "13",
+    "jerseyNum": "33",
+    "position": "C"
+  },
+  {
+    "playerID": "20001430",
+    "longName": "Tyus Jones",
+    "team": "WAS",
+    "teamID": "1",
+    "jerseyNum": "5",
+    "position": "PG"
+  },
+  {
+    "playerID": "20001431",
+    "longName": "Karl-Anthony Towns",
+    "team": "MIN",
+    "teamID": "16",
+    "jerseyNum": "32",
+    "position": "PF"
+  },
+  {
+    "playerID": "20001433",
+    "longName": "Trey Lyles",
+    "team": "SAC",
+    "teamID": "30",
+    "jerseyNum": "41",
+    "position": "PF"
+  },
+  {
+    "playerID": "20001437",
+    "longName": "Cameron Payne",
+    "team": "MIL",
+    "teamID": "15",
+    "jerseyNum": "15",
+    "position": "PG"
+  },
+  {
+    "playerID": "20001438",
+    "longName": "Pat Connaughton",
+    "team": "MIL",
+    "teamID": "15",
+    "jerseyNum": "24",
+    "position": "SG"
+  },
+  {
+    "playerID": "20001441",
+    "longName": "Nikola Jokic",
+    "team": "DEN",
+    "teamID": "20",
+    "jerseyNum": "15",
+    "position": "C"
+  },
+  {
+    "playerID": "20001449",
+    "longName": "Boban Marjanovic",
+    "team": "HOU",
+    "teamID": "22",
+    "jerseyNum": "51",
+    "position": "C"
+  },
+  {
+    "playerID": "20001455",
+    "longName": "Kevon Looney",
+    "team": "GS",
+    "teamID": "26",
+    "jerseyNum": "5",
+    "position": "C"
+  },
+  {
+    "playerID": "20001457",
+    "longName": "Larry Nance",
+    "team": "NO",
+    "teamID": "23",
+    "jerseyNum": "22",
+    "position": "PF"
+  },
+  {
+    "playerID": "20001458",
+    "longName": "D'Angelo Russell",
+    "team": "LAL",
+    "teamID": "27",
+    "jerseyNum": "1",
+    "position": "PG"
+  },
+  {
+    "playerID": "20001460",
+    "longName": "Devin Booker",
+    "team": "PHO",
+    "teamID": "29",
+    "jerseyNum": "1",
+    "position": "SG"
+  },
+  {
+    "playerID": "20001521",
+    "longName": "Thanasis Antetokounmpo",
+    "team": "MIL",
+    "teamID": "15",
+    "jerseyNum": "43",
+    "position": "SF"
+  },
+  {
+    "playerID": "20001525",
+    "longName": "T.J. McConnell",
+    "team": "IND",
+    "teamID": "13",
+    "jerseyNum": "9",
+    "position": "PG"
+  },
+  {
+    "playerID": "20001527",
+    "longName": "Christian Wood",
+    "team": "LAL",
+    "teamID": "27",
+    "jerseyNum": "35",
+    "position": "PF"
+  },
+  {
+    "playerID": "20001597",
+    "longName": "Dario Saric",
+    "team": "GS",
+    "teamID": "26",
+    "jerseyNum": "20",
+    "position": "PF"
+  },
+  {
+    "playerID": "20001661",
+    "longName": "Ben Simmons",
+    "team": "BKN",
+    "teamID": "8",
+    "jerseyNum": "10",
+    "position": "PG"
+  },
+  {
+    "playerID": "20001666",
+    "longName": "Jamal Murray",
+    "team": "DEN",
+    "teamID": "20",
+    "jerseyNum": "27",
+    "position": "PG"
+  },
+  {
+    "playerID": "20001668",
+    "longName": "Davis Bertans",
+    "team": "OKC",
+    "teamID": "18",
+    "jerseyNum": "9",
+    "position": "PF"
+  },
+  {
+    "playerID": "20001670",
+    "longName": "Kris Dunn",
+    "team": "UTA",
+    "teamID": "17",
+    "jerseyNum": "11",
+    "position": "PG"
+  },
+  {
+    "playerID": "20001671",
+    "longName": "Brandon Ingram",
+    "team": "NO",
+    "teamID": "23",
+    "jerseyNum": "14",
+    "position": "SF"
+  },
+  {
+    "playerID": "20001672",
+    "longName": "Jaylen Brown",
+    "team": "BOS",
+    "teamID": "9",
+    "jerseyNum": "7",
+    "position": "SG"
+  },
+  {
+    "playerID": "20001673",
+    "longName": "Buddy Hield",
+    "team": "IND",
+    "teamID": "13",
+    "jerseyNum": "7",
+    "position": "SF"
+  },
+  {
+    "playerID": "20001678",
+    "longName": "Malik Beasley",
+    "team": "MIL",
+    "teamID": "15",
+    "jerseyNum": "5",
+    "position": "SG"
+  },
+  {
+    "playerID": "20001679",
+    "longName": "Dejounte Murray",
+    "team": "ATL",
+    "teamID": "3",
+    "jerseyNum": "5",
+    "position": "SG"
+  },
+  {
+    "playerID": "20001680",
+    "longName": "Taurean Prince",
+    "team": "LAL",
+    "teamID": "27",
+    "jerseyNum": "12",
+    "position": "SF"
+  },
+  {
+    "playerID": "20001683",
+    "longName": "Domantas Sabonis",
+    "team": "SAC",
+    "teamID": "30",
+    "jerseyNum": "10",
+    "position": "C"
+  },
+  {
+    "playerID": "20001687",
+    "longName": "Jakob Poeltl",
+    "team": "TOR",
+    "teamID": "10",
+    "jerseyNum": "19",
+    "position": "C"
+  },
+  {
+    "playerID": "20001689",
+    "longName": "Damian Jones",
+    "team": "CLE",
+    "teamID": "12",
+    "jerseyNum": "30",
+    "position": "C"
+  },
+  {
+    "playerID": "20001694",
+    "longName": "Ivica Zubac",
+    "team": "LAC",
+    "teamID": "28",
+    "jerseyNum": "40",
+    "position": "C"
+  },
+  {
+    "playerID": "20001701",
+    "longName": "Malcolm Brogdon",
+    "team": "POR",
+    "teamID": "19",
+    "jerseyNum": "11",
+    "position": "SG"
+  },
+  {
+    "playerID": "20001707",
+    "longName": "Caris LeVert",
+    "team": "CLE",
+    "teamID": "12",
+    "jerseyNum": "3",
+    "position": "SF"
+  },
+  {
+    "playerID": "20001708",
+    "longName": "Georges Niang",
+    "team": "CLE",
+    "teamID": "12",
+    "jerseyNum": "20",
+    "position": "SF"
+  },
+  {
+    "playerID": "20001710",
+    "longName": "Pascal Siakam",
+    "team": "TOR",
+    "teamID": "10",
+    "jerseyNum": "43",
+    "position": "PF"
+  },
+  {
+    "playerID": "20001722",
+    "longName": "Furkan Korkmaz",
+    "team": "PHI",
+    "teamID": "7",
+    "jerseyNum": "30",
+    "position": "SG"
+  },
+  {
+    "playerID": "20001730",
+    "longName": "Gary Payton",
+    "team": "GS",
+    "teamID": "26",
+    "jerseyNum": "0",
+    "position": "PG"
+  },
+  {
+    "playerID": "20001733",
+    "longName": "Fred VanVleet",
+    "team": "HOU",
+    "teamID": "22",
+    "jerseyNum": "5",
+    "position": "PG"
+  },
+  {
+    "playerID": "20001745",
+    "longName": "Bogdan Bogdanovic",
+    "team": "ATL",
+    "teamID": "3",
+    "jerseyNum": "13",
+    "position": "SG"
+  },
+  {
+    "playerID": "20001746",
+    "longName": "Ryan Arcidiacono",
+    "team": "NY",
+    "teamID": "6",
+    "jerseyNum": "51",
+    "position": "PG"
+  },
+  {
+    "playerID": "20001747",
+    "longName": "Danuel House",
+    "team": "PHI",
+    "teamID": "7",
+    "jerseyNum": "25",
+    "position": "PF"
+  },
+  {
+    "playerID": "20001757",
+    "longName": "Dorian Finney-Smith",
+    "team": "BKN",
+    "teamID": "8",
+    "jerseyNum": "28",
+    "position": "PF"
+  },
+  {
+    "playerID": "20001791",
+    "longName": "Damion Lee",
+    "team": "PHO",
+    "teamID": "29",
+    "jerseyNum": "10",
+    "position": "SG"
+  },
+  {
+    "playerID": "20001796",
+    "longName": "Derrick Jones",
+    "team": "DAL",
+    "teamID": "25",
+    "jerseyNum": "55",
+    "position": "SF"
+  },
+  {
+    "playerID": "20001801",
+    "longName": "Alex Caruso",
+    "team": "CHI",
+    "teamID": "11",
+    "jerseyNum": "6",
+    "position": "SG"
+  },
+  {
+    "playerID": "20001823",
+    "longName": "Lonzo Ball",
+    "team": "CHI",
+    "teamID": "11",
+    "jerseyNum": "2",
+    "position": "PG"
+  },
+  {
+    "playerID": "20001824",
+    "longName": "De'Aaron Fox",
+    "team": "SAC",
+    "teamID": "30",
+    "jerseyNum": "5",
+    "position": "PG"
+  },
+  {
+    "playerID": "20001825",
+    "longName": "Markelle Fultz",
+    "team": "ORL",
+    "teamID": "5",
+    "jerseyNum": "20",
+    "position": "PG"
+  },
+  {
+    "playerID": "20001826",
+    "longName": "Dennis Smith",
+    "team": "BKN",
+    "teamID": "8",
+    "jerseyNum": "4",
+    "position": "PG"
+  },
+  {
+    "playerID": "20001827",
+    "longName": "Harry Giles",
+    "team": "BKN",
+    "teamID": "8",
+    "jerseyNum": "14",
+    "position": "PF"
+  },
+  {
+    "playerID": "20001829",
+    "longName": "Jayson Tatum",
+    "team": "BOS",
+    "teamID": "9",
+    "jerseyNum": "0",
+    "position": "SF"
+  },
+  {
+    "playerID": "20001830",
+    "longName": "Jonathan Isaac",
+    "team": "ORL",
+    "teamID": "5",
+    "jerseyNum": "1",
+    "position": "PF"
+  },
+  {
+    "playerID": "20001831",
+    "longName": "Lauri Markkanen",
+    "team": "UTA",
+    "teamID": "17",
+    "jerseyNum": "23",
+    "position": "PF"
+  },
+  {
+    "playerID": "20001832",
+    "longName": "Frank Ntilikina",
+    "team": "CHA",
+    "teamID": "2",
+    "jerseyNum": "44",
+    "position": "PG"
+  },
+  {
+    "playerID": "20001833",
+    "longName": "Malik Monk",
+    "team": "SAC",
+    "teamID": "30",
+    "jerseyNum": "0",
+    "position": "SG"
+  },
+  {
+    "playerID": "20001834",
+    "longName": "Zach Collins",
+    "team": "SA",
+    "teamID": "24",
+    "jerseyNum": "23",
+    "position": "C"
+  },
+  {
+    "playerID": "20001835",
+    "longName": "John Collins",
+    "team": "UTA",
+    "teamID": "17",
+    "jerseyNum": "20",
+    "position": "PF"
+  },
+  {
+    "playerID": "20001836",
+    "longName": "Bam Adebayo",
+    "team": "MIA",
+    "teamID": "4",
+    "jerseyNum": "13",
+    "position": "C"
+  },
+  {
+    "playerID": "20001837",
+    "longName": "Jarrett Allen",
+    "team": "CLE",
+    "teamID": "12",
+    "jerseyNum": "31",
+    "position": "C"
+  },
+  {
+    "playerID": "20001838",
+    "longName": "OG Anunoby",
+    "team": "TOR",
+    "teamID": "10",
+    "jerseyNum": "3",
+    "position": "SF"
+  },
+  {
+    "playerID": "20001840",
+    "longName": "Luke Kennard",
+    "team": "MEM",
+    "teamID": "21",
+    "jerseyNum": "10",
+    "position": "SG"
+  },
+  {
+    "playerID": "20001844",
+    "longName": "Donovan Mitchell",
+    "team": "CLE",
+    "teamID": "12",
+    "jerseyNum": "45",
+    "position": "SG"
+  },
+  {
+    "playerID": "20001852",
+    "longName": "Thomas Bryant",
+    "team": "MIA",
+    "teamID": "4",
+    "jerseyNum": "31",
+    "position": "C"
+  },
+  {
+    "playerID": "20001853",
+    "longName": "Josh Hart",
+    "team": "NY",
+    "teamID": "6",
+    "jerseyNum": "3",
+    "position": "SF"
+  },
+  {
+    "playerID": "20001856",
+    "longName": "Derrick White",
+    "team": "BOS",
+    "teamID": "9",
+    "jerseyNum": "9",
+    "position": "SG"
+  },
+  {
+    "playerID": "20001858",
+    "longName": "Kyle Kuzma",
+    "team": "WAS",
+    "teamID": "1",
+    "jerseyNum": "33",
+    "position": "PF"
+  },
+  {
+    "playerID": "20001870",
+    "longName": "Vlatko Cancar",
+    "team": "DEN",
+    "teamID": "20",
+    "jerseyNum": "31",
+    "position": "SF"
+  },
+  {
+    "playerID": "20001871",
+    "longName": "Monte Morris",
+    "team": "DET",
+    "teamID": "14",
+    "jerseyNum": "5",
+    "position": "PG"
+  },
+  {
+    "playerID": "20001873",
+    "longName": "Dillon Brooks",
+    "team": "HOU",
+    "teamID": "22",
+    "jerseyNum": "9",
+    "position": "SF"
+  },
+  {
+    "playerID": "20001874",
+    "longName": "Isaiah Hartenstein",
+    "team": "NY",
+    "teamID": "6",
+    "jerseyNum": "55",
+    "position": "C"
+  },
+  {
+    "playerID": "20001878",
+    "longName": "Sasha Vezenkov",
+    "team": "SAC",
+    "teamID": "30",
+    "jerseyNum": "7",
+    "position": "PF"
+  },
+  {
+    "playerID": "20001886",
+    "longName": "Chris Boucher",
+    "team": "TOR",
+    "teamID": "10",
+    "jerseyNum": "25",
+    "position": "PF"
+  },
+  {
+    "playerID": "20001889",
+    "longName": "Luke Kornet",
+    "team": "BOS",
+    "teamID": "9",
+    "jerseyNum": "40",
+    "position": "C"
+  },
+  {
+    "playerID": "20001901",
+    "longName": "Daniel Theis",
+    "team": "IND",
+    "teamID": "13",
+    "jerseyNum": "27",
+    "position": "C"
+  },
+  {
+    "playerID": "20001909",
+    "longName": "Maxi Kleber",
+    "team": "DAL",
+    "teamID": "25",
+    "jerseyNum": "42",
+    "position": "C"
+  },
+  {
+    "playerID": "20001912",
+    "longName": "Torrey Craig",
+    "team": "CHI",
+    "teamID": "11",
+    "jerseyNum": "13",
+    "position": "SF"
+  },
+  {
+    "playerID": "20001913",
+    "longName": "Royce O'Neale",
+    "team": "BKN",
+    "teamID": "8",
+    "jerseyNum": "0",
+    "position": "PF"
+  },
+  {
+    "playerID": "20001984",
+    "longName": "Luka Doncic",
+    "team": "DAL",
+    "teamID": "25",
+    "jerseyNum": "77",
+    "position": "PG"
+  },
+  {
+    "playerID": "20001985",
+    "longName": "Mo Bamba",
+    "team": "PHI",
+    "teamID": "7",
+    "jerseyNum": "7",
+    "position": "C"
+  },
+  {
+    "playerID": "20001986",
+    "longName": "Grayson Allen",
+    "team": "PHO",
+    "teamID": "29",
+    "jerseyNum": "8",
+    "position": "SF"
+  },
+  {
+    "playerID": "20001987",
+    "longName": "Donte DiVincenzo",
+    "team": "NY",
+    "teamID": "6",
+    "jerseyNum": "0",
+    "position": "SG"
+  },
+  {
+    "playerID": "20001988",
+    "longName": "Michael Porter",
+    "team": "DEN",
+    "teamID": "20",
+    "jerseyNum": "1",
+    "position": "SF"
+  },
+  {
+    "playerID": "20001989",
+    "longName": "Trae Young",
+    "team": "ATL",
+    "teamID": "3",
+    "jerseyNum": "11",
+    "position": "PG"
+  },
+  {
+    "playerID": "20001990",
+    "longName": "Deandre Ayton",
+    "team": "POR",
+    "teamID": "19",
+    "jerseyNum": "2",
+    "position": "C"
+  },
+  {
+    "playerID": "20001991",
+    "longName": "Jaren Jackson",
+    "team": "MEM",
+    "teamID": "21",
+    "jerseyNum": "13",
+    "position": "PF"
+  },
+  {
+    "playerID": "20001993",
+    "longName": "Kevin Huerter",
+    "team": "SAC",
+    "teamID": "30",
+    "jerseyNum": "9",
+    "position": "SG"
+  },
+  {
+    "playerID": "20001994",
+    "longName": "Kevin Knox",
+    "team": "DET",
+    "teamID": "14",
+    "jerseyNum": "24",
+    "position": "SF"
+  },
+  {
+    "playerID": "20001995",
+    "longName": "Marvin Bagley",
+    "team": "DET",
+    "teamID": "14",
+    "jerseyNum": "35",
+    "position": "PF"
+  },
+  {
+    "playerID": "20001996",
+    "longName": "Wendell Carter",
+    "team": "ORL",
+    "teamID": "5",
+    "jerseyNum": "34",
+    "position": "C"
+  },
+  {
+    "playerID": "20001997",
+    "longName": "Collin Sexton",
+    "team": "UTA",
+    "teamID": "17",
+    "jerseyNum": "2",
+    "position": "PG"
+  },
+  {
+    "playerID": "20001998",
+    "longName": "Mikal Bridges",
+    "team": "BKN",
+    "teamID": "8",
+    "jerseyNum": "1",
+    "position": "SF"
+  },
+  {
+    "playerID": "20001999",
+    "longName": "Shai Gilgeous-Alexander",
+    "team": "OKC",
+    "teamID": "18",
+    "jerseyNum": "2",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002000",
+    "longName": "Jerome Robinson",
+    "team": "GS",
+    "teamID": "26",
+    "jerseyNum": "18",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002002",
+    "longName": "Troy Brown",
+    "team": "MIN",
+    "teamID": "16",
+    "jerseyNum": "23",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002003",
+    "longName": "Miles Bridges",
+    "team": "CHA",
+    "teamID": "2",
+    "jerseyNum": "0",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002005",
+    "longName": "Aaron Holiday",
+    "team": "HOU",
+    "teamID": "22",
+    "jerseyNum": "0",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002006",
+    "longName": "Josh Okogie",
+    "team": "PHO",
+    "teamID": "29",
+    "jerseyNum": "2",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002007",
+    "longName": "Anfernee Simons",
+    "team": "POR",
+    "teamID": "19",
+    "jerseyNum": "1",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002008",
+    "longName": "Lonnie Walker",
+    "team": "BKN",
+    "teamID": "8",
+    "jerseyNum": "8",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002010",
+    "longName": "Devonte' Graham",
+    "team": "SA",
+    "teamID": "24",
+    "jerseyNum": "4",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002015",
+    "longName": "Jarred Vanderbilt",
+    "team": "LAL",
+    "teamID": "27",
+    "jerseyNum": "2",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002016",
+    "longName": "Mitchell Robinson",
+    "team": "NY",
+    "teamID": "6",
+    "jerseyNum": "23",
+    "position": "C"
+  },
+  {
+    "playerID": "20002019",
+    "longName": "Landry Shamet",
+    "team": "WAS",
+    "teamID": "1",
+    "jerseyNum": "20",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002024",
+    "longName": "Robert Williams",
+    "team": "POR",
+    "teamID": "19",
+    "jerseyNum": "35",
+    "position": "C"
+  },
+  {
+    "playerID": "20002027",
+    "longName": "Gary Trent",
+    "team": "TOR",
+    "teamID": "10",
+    "jerseyNum": "33",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002028",
+    "longName": "Jevon Carter",
+    "team": "CHI",
+    "teamID": "11",
+    "jerseyNum": "5",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002029",
+    "longName": "De'Anthony Melton",
+    "team": "PHI",
+    "teamID": "7",
+    "jerseyNum": "8",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002031",
+    "longName": "Chimezie Metu",
+    "team": "PHO",
+    "teamID": "29",
+    "jerseyNum": "4",
+    "position": "C"
+  },
+  {
+    "playerID": "20002032",
+    "longName": "Jalen Brunson",
+    "team": "NY",
+    "teamID": "6",
+    "jerseyNum": "11",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002033",
+    "longName": "Shake Milton",
+    "team": "MIN",
+    "teamID": "16",
+    "jerseyNum": "18",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002035",
+    "longName": "Svi Mykhailiuk",
+    "team": "BOS",
+    "teamID": "9",
+    "jerseyNum": "50",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002036",
+    "longName": "Moritz Wagner",
+    "team": "ORL",
+    "teamID": "5",
+    "jerseyNum": "21",
+    "position": "C"
+  },
+  {
+    "playerID": "20002040",
+    "longName": "Bruce Brown",
+    "team": "IND",
+    "teamID": "13",
+    "jerseyNum": "11",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002041",
+    "longName": "Keita Bates-Diop",
+    "team": "PHO",
+    "teamID": "29",
+    "jerseyNum": "21",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002045",
+    "longName": "Drew Eubanks",
+    "team": "PHO",
+    "teamID": "29",
+    "jerseyNum": "14",
+    "position": "C"
+  },
+  {
+    "playerID": "20002056",
+    "longName": "Kenrich Williams",
+    "team": "OKC",
+    "teamID": "18",
+    "jerseyNum": "34",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002057",
+    "longName": "Duncan Robinson",
+    "team": "MIA",
+    "teamID": "4",
+    "jerseyNum": "55",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002058",
+    "longName": "Yuta Watanabe",
+    "team": "PHO",
+    "teamID": "29",
+    "jerseyNum": "18",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002127",
+    "longName": "Jordan McLaughlin",
+    "team": "MIN",
+    "teamID": "16",
+    "jerseyNum": "6",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002150",
+    "longName": "Duop Reath",
+    "team": "POR",
+    "teamID": "19",
+    "jerseyNum": "26",
+    "position": "C"
+  },
+  {
+    "playerID": "20002172",
+    "longName": "Jock Landale",
+    "team": "HOU",
+    "teamID": "22",
+    "jerseyNum": "2",
+    "position": "C"
+  },
+  {
+    "playerID": "20002195",
+    "longName": "Haywood Highsmith",
+    "team": "MIA",
+    "teamID": "4",
+    "jerseyNum": "24",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002213",
+    "longName": "Jae'Sean Tate",
+    "team": "HOU",
+    "teamID": "22",
+    "jerseyNum": "8",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002254",
+    "longName": "Gabe Vincent",
+    "team": "LAL",
+    "teamID": "27",
+    "jerseyNum": "7",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002266",
+    "longName": "Ja Morant",
+    "team": "MEM",
+    "teamID": "21",
+    "jerseyNum": "12",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002268",
+    "longName": "De'Andre Hunter",
+    "team": "ATL",
+    "teamID": "3",
+    "jerseyNum": "12",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002270",
+    "longName": "Darius Garland",
+    "team": "CLE",
+    "teamID": "12",
+    "jerseyNum": "10",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002271",
+    "longName": "Zion Williamson",
+    "team": "NO",
+    "teamID": "23",
+    "jerseyNum": "1",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002272",
+    "longName": "RJ Barrett",
+    "team": "NY",
+    "teamID": "6",
+    "jerseyNum": "9",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002274",
+    "longName": "Jaxson Hayes",
+    "team": "LAL",
+    "teamID": "27",
+    "jerseyNum": "11",
+    "position": "C"
+  },
+  {
+    "playerID": "20002275",
+    "longName": "Rui Hachimura",
+    "team": "LAL",
+    "teamID": "27",
+    "jerseyNum": "28",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002276",
+    "longName": "Cam Reddish",
+    "team": "LAL",
+    "teamID": "27",
+    "jerseyNum": "5",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002278",
+    "longName": "Grant Williams",
+    "team": "DAL",
+    "teamID": "25",
+    "jerseyNum": "3",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002279",
+    "longName": "P.J. Washington",
+    "team": "CHA",
+    "teamID": "2",
+    "jerseyNum": "25",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002280",
+    "longName": "Coby White",
+    "team": "CHI",
+    "teamID": "11",
+    "jerseyNum": "0",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002282",
+    "longName": "Goga Bitadze",
+    "team": "ORL",
+    "teamID": "5",
+    "jerseyNum": "35",
+    "position": "C"
+  },
+  {
+    "playerID": "20002283",
+    "longName": "Brandon Clarke",
+    "team": "MEM",
+    "teamID": "21",
+    "jerseyNum": "15",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002284",
+    "longName": "Tyler Herro",
+    "team": "MIA",
+    "teamID": "4",
+    "jerseyNum": "14",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002285",
+    "longName": "Nickeil Alexander-Walker",
+    "team": "MIN",
+    "teamID": "16",
+    "jerseyNum": "9",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002287",
+    "longName": "Chuma Okeke",
+    "team": "ORL",
+    "teamID": "5",
+    "jerseyNum": "3",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002288",
+    "longName": "Matisse Thybulle",
+    "team": "POR",
+    "teamID": "19",
+    "jerseyNum": "4",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002289",
+    "longName": "Cameron Johnson",
+    "team": "BKN",
+    "teamID": "8",
+    "jerseyNum": "2",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002290",
+    "longName": "Luka Samanic",
+    "team": "UTA",
+    "teamID": "17",
+    "jerseyNum": "19",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002291",
+    "longName": "Bol Bol",
+    "team": "PHO",
+    "teamID": "29",
+    "jerseyNum": "11",
+    "position": "C"
+  },
+  {
+    "playerID": "20002292",
+    "longName": "Nic Claxton",
+    "team": "BKN",
+    "teamID": "8",
+    "jerseyNum": "33",
+    "position": "C"
+  },
+  {
+    "playerID": "20002294",
+    "longName": "Cody Martin",
+    "team": "CHA",
+    "teamID": "2",
+    "jerseyNum": "11",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002296",
+    "longName": "Dylan Windler",
+    "team": "NY",
+    "teamID": "6",
+    "jerseyNum": "20",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002300",
+    "longName": "Jordan Poole",
+    "team": "WAS",
+    "teamID": "1",
+    "jerseyNum": "13",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002303",
+    "longName": "Talen Horton-Tucker",
+    "team": "UTA",
+    "teamID": "17",
+    "jerseyNum": "5",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002306",
+    "longName": "Bruno Fernando",
+    "team": "ATL",
+    "teamID": "3",
+    "jerseyNum": "24",
+    "position": "C"
+  },
+  {
+    "playerID": "20002307",
+    "longName": "Ty Jerome",
+    "team": "CLE",
+    "teamID": "12",
+    "jerseyNum": "2",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002308",
+    "longName": "Nassir Little",
+    "team": "PHO",
+    "teamID": "29",
+    "jerseyNum": "25",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002309",
+    "longName": "Keldon Johnson",
+    "team": "SA",
+    "teamID": "24",
+    "jerseyNum": "3",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002311",
+    "longName": "Admiral Schofield",
+    "team": "ORL",
+    "teamID": "5",
+    "jerseyNum": "25",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002312",
+    "longName": "Terance Mann",
+    "team": "LAC",
+    "teamID": "28",
+    "jerseyNum": "14",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002316",
+    "longName": "Jalen McDaniels",
+    "team": "TOR",
+    "teamID": "10",
+    "jerseyNum": "2",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002318",
+    "longName": "John Konchar",
+    "team": "MEM",
+    "teamID": "21",
+    "jerseyNum": "46",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002329",
+    "longName": "Daniel Gafford",
+    "team": "WAS",
+    "teamID": "1",
+    "jerseyNum": "21",
+    "position": "C"
+  },
+  {
+    "playerID": "20002332",
+    "longName": "Marques Bolden",
+    "team": "MIL",
+    "teamID": "15",
+    "jerseyNum": "12",
+    "position": "C"
+  },
+  {
+    "playerID": "20002333",
+    "longName": "Dean Wade",
+    "team": "CLE",
+    "teamID": "12",
+    "jerseyNum": "32",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002336",
+    "longName": "Naz Reid",
+    "team": "MIN",
+    "teamID": "16",
+    "jerseyNum": "11",
+    "position": "C"
+  },
+  {
+    "playerID": "20002339",
+    "longName": "Luguentz Dort",
+    "team": "OKC",
+    "teamID": "18",
+    "jerseyNum": "5",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002343",
+    "longName": "Max Strus",
+    "team": "CLE",
+    "teamID": "12",
+    "jerseyNum": "1",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002352",
+    "longName": "Moses Brown",
+    "team": "POR",
+    "teamID": "19",
+    "jerseyNum": "10",
+    "position": "C"
+  },
+  {
+    "playerID": "20002356",
+    "longName": "Oshae Brissett",
+    "team": "BOS",
+    "teamID": "9",
+    "jerseyNum": "12",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002374",
+    "longName": "DaQuan Jeffries",
+    "team": "NY",
+    "teamID": "6",
+    "jerseyNum": "8",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002383",
+    "longName": "Lindell Wigginton",
+    "team": "MIL",
+    "teamID": "15",
+    "jerseyNum": "28",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002386",
+    "longName": "Amir Coffey",
+    "team": "LAC",
+    "teamID": "28",
+    "jerseyNum": "7",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002455",
+    "longName": "Charlie Brown",
+    "team": "NY",
+    "teamID": "6",
+    "jerseyNum": "16",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002488",
+    "longName": "Armoni Brooks",
+    "team": "BKN",
+    "teamID": "8",
+    "jerseyNum": "13",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002490",
+    "longName": "Garrison Mathews",
+    "team": "ATL",
+    "teamID": "3",
+    "jerseyNum": "25",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002491",
+    "longName": "Caleb Martin",
+    "team": "MIA",
+    "teamID": "4",
+    "jerseyNum": "16",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002523",
+    "longName": "Anthony Edwards",
+    "team": "MIN",
+    "teamID": "16",
+    "jerseyNum": "5",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002527",
+    "longName": "James Wiseman",
+    "team": "DET",
+    "teamID": "14",
+    "jerseyNum": "13",
+    "position": "C"
+  },
+  {
+    "playerID": "20002528",
+    "longName": "LaMelo Ball",
+    "team": "CHA",
+    "teamID": "2",
+    "jerseyNum": "1",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002529",
+    "longName": "Patrick Williams",
+    "team": "CHI",
+    "teamID": "11",
+    "jerseyNum": "44",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002530",
+    "longName": "Isaac Okoro",
+    "team": "CLE",
+    "teamID": "12",
+    "jerseyNum": "35",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002531",
+    "longName": "Onyeka Okongwu",
+    "team": "ATL",
+    "teamID": "3",
+    "jerseyNum": "17",
+    "position": "C"
+  },
+  {
+    "playerID": "20002532",
+    "longName": "Killian Hayes",
+    "team": "DET",
+    "teamID": "14",
+    "jerseyNum": "7",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002533",
+    "longName": "Obi Toppin",
+    "team": "IND",
+    "teamID": "13",
+    "jerseyNum": "1",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002534",
+    "longName": "Deni Avdija",
+    "team": "WAS",
+    "teamID": "1",
+    "jerseyNum": "8",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002535",
+    "longName": "Jalen Smith",
+    "team": "IND",
+    "teamID": "13",
+    "jerseyNum": "25",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002536",
+    "longName": "Devin Vassell",
+    "team": "SA",
+    "teamID": "24",
+    "jerseyNum": "24",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002537",
+    "longName": "Tyrese Haliburton",
+    "team": "IND",
+    "teamID": "13",
+    "jerseyNum": "0",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002538",
+    "longName": "Kira Lewis",
+    "team": "NO",
+    "teamID": "23",
+    "jerseyNum": "13",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002539",
+    "longName": "Aaron Nesmith",
+    "team": "IND",
+    "teamID": "13",
+    "jerseyNum": "23",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002540",
+    "longName": "Cole Anthony",
+    "team": "ORL",
+    "teamID": "5",
+    "jerseyNum": "50",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002541",
+    "longName": "Isaiah Stewart",
+    "team": "DET",
+    "teamID": "14",
+    "jerseyNum": "28",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002542",
+    "longName": "Aleksej Pokusevski",
+    "team": "OKC",
+    "teamID": "18",
+    "jerseyNum": "17",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002543",
+    "longName": "Josh Green",
+    "team": "DAL",
+    "teamID": "25",
+    "jerseyNum": "8",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002544",
+    "longName": "Saddiq Bey",
+    "team": "ATL",
+    "teamID": "3",
+    "jerseyNum": "41",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002545",
+    "longName": "Precious Achiuwa",
+    "team": "TOR",
+    "teamID": "10",
+    "jerseyNum": "5",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002546",
+    "longName": "Tyrese Maxey",
+    "team": "PHI",
+    "teamID": "7",
+    "jerseyNum": "0",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002547",
+    "longName": "Zeke Nnaji",
+    "team": "DEN",
+    "teamID": "20",
+    "jerseyNum": "22",
+    "position": "C"
+  },
+  {
+    "playerID": "20002549",
+    "longName": "R.J. Hampton",
+    "team": "MIA",
+    "teamID": "4",
+    "jerseyNum": "4",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002550",
+    "longName": "Immanuel Quickley",
+    "team": "NY",
+    "teamID": "6",
+    "jerseyNum": "5",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002551",
+    "longName": "Payton Pritchard",
+    "team": "BOS",
+    "teamID": "9",
+    "jerseyNum": "11",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002552",
+    "longName": "Udoka Azubuike",
+    "team": "PHO",
+    "teamID": "29",
+    "jerseyNum": "27",
+    "position": "C"
+  },
+  {
+    "playerID": "20002553",
+    "longName": "Jaden McDaniels",
+    "team": "MIN",
+    "teamID": "16",
+    "jerseyNum": "3",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002554",
+    "longName": "Malachi Flynn",
+    "team": "TOR",
+    "teamID": "10",
+    "jerseyNum": "22",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002555",
+    "longName": "Desmond Bane",
+    "team": "MEM",
+    "teamID": "21",
+    "jerseyNum": "22",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002559",
+    "longName": "Theo Maledon",
+    "team": "CHA",
+    "teamID": "2",
+    "jerseyNum": "9",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002560",
+    "longName": "Xavier Tillman",
+    "team": "MEM",
+    "teamID": "21",
+    "jerseyNum": "2",
+    "position": "C"
+  },
+  {
+    "playerID": "20002563",
+    "longName": "Saben Lee",
+    "team": "PHO",
+    "teamID": "29",
+    "jerseyNum": "38",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002566",
+    "longName": "Tre Jones",
+    "team": "SA",
+    "teamID": "24",
+    "jerseyNum": "33",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002567",
+    "longName": "Nick Richards",
+    "team": "CHA",
+    "teamID": "2",
+    "jerseyNum": "4",
+    "position": "C"
+  },
+  {
+    "playerID": "20002569",
+    "longName": "Jordan Nwora",
+    "team": "IND",
+    "teamID": "13",
+    "jerseyNum": "13",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002574",
+    "longName": "Isaiah Joe",
+    "team": "OKC",
+    "teamID": "18",
+    "jerseyNum": "11",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002575",
+    "longName": "Skylar Mays",
+    "team": "POR",
+    "teamID": "19",
+    "jerseyNum": "5",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002577",
+    "longName": "Kenyon Martin",
+    "team": "PHI",
+    "teamID": "7",
+    "jerseyNum": "1",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002584",
+    "longName": "Paul Reed",
+    "team": "PHI",
+    "teamID": "7",
+    "jerseyNum": "44",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002585",
+    "longName": "Sam Merrill",
+    "team": "CLE",
+    "teamID": "12",
+    "jerseyNum": "5",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002588",
+    "longName": "Lamar Stevens",
+    "team": "BOS",
+    "teamID": "9",
+    "jerseyNum": "77",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002595",
+    "longName": "Nate Hinton",
+    "team": "HOU",
+    "teamID": "22",
+    "jerseyNum": "14",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002597",
+    "longName": "Trent Forrest",
+    "team": "ATL",
+    "teamID": "3",
+    "jerseyNum": "2",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002599",
+    "longName": "Omer Yurtseven",
+    "team": "UTA",
+    "teamID": "17",
+    "jerseyNum": "77",
+    "position": "C"
+  },
+  {
+    "playerID": "20002600",
+    "longName": "Naji Marshall",
+    "team": "NO",
+    "teamID": "23",
+    "jerseyNum": "8",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002603",
+    "longName": "Nathan Knight",
+    "team": "BOS",
+    "teamID": "9",
+    "jerseyNum": "13",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002610",
+    "longName": "Trevelin Queen",
+    "team": "ORL",
+    "teamID": "5",
+    "jerseyNum": "12",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002612",
+    "longName": "Jordan Ford",
+    "team": "SAC",
+    "teamID": "30",
+    "jerseyNum": "31",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002615",
+    "longName": "Anthony Gill",
+    "team": "WAS",
+    "teamID": "1",
+    "jerseyNum": "16",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002631",
+    "longName": "Kevon Harris",
+    "team": "ORL",
+    "teamID": "5",
+    "jerseyNum": "8",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002643",
+    "longName": "Vasilije Micic",
+    "team": "OKC",
+    "teamID": "18",
+    "jerseyNum": "29",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002651",
+    "longName": "Corey Kispert",
+    "team": "WAS",
+    "teamID": "1",
+    "jerseyNum": "24",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002652",
+    "longName": "Chris Duarte",
+    "team": "SAC",
+    "teamID": "30",
+    "jerseyNum": "3",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002653",
+    "longName": "Jaden Springer",
+    "team": "PHI",
+    "teamID": "7",
+    "jerseyNum": "11",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002654",
+    "longName": "Franz Wagner",
+    "team": "ORL",
+    "teamID": "5",
+    "jerseyNum": "22",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002655",
+    "longName": "Moses Moody",
+    "team": "GS",
+    "teamID": "26",
+    "jerseyNum": "4",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002656",
+    "longName": "Ziaire Williams",
+    "team": "MEM",
+    "teamID": "21",
+    "jerseyNum": "8",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002657",
+    "longName": "Jalen Johnson",
+    "team": "ATL",
+    "teamID": "3",
+    "jerseyNum": "1",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002658",
+    "longName": "Cam Thomas",
+    "team": "BKN",
+    "teamID": "8",
+    "jerseyNum": "24",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002659",
+    "longName": "Jared Butler",
+    "team": "WAS",
+    "teamID": "1",
+    "jerseyNum": "4",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002661",
+    "longName": "Jonathan Kuminga",
+    "team": "GS",
+    "teamID": "26",
+    "jerseyNum": "0",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002662",
+    "longName": "Scottie Barnes",
+    "team": "TOR",
+    "teamID": "10",
+    "jerseyNum": "4",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002663",
+    "longName": "Keon Johnson",
+    "team": "BKN",
+    "teamID": "8",
+    "jerseyNum": "45",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002664",
+    "longName": "Davion Mitchell",
+    "team": "SAC",
+    "teamID": "30",
+    "jerseyNum": "15",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002665",
+    "longName": "Josh Giddey",
+    "team": "OKC",
+    "teamID": "18",
+    "jerseyNum": "3",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002666",
+    "longName": "Alperen Sengun",
+    "team": "HOU",
+    "teamID": "22",
+    "jerseyNum": "28",
+    "position": "C"
+  },
+  {
+    "playerID": "20002667",
+    "longName": "Cade Cunningham",
+    "team": "DET",
+    "teamID": "14",
+    "jerseyNum": "2",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002668",
+    "longName": "Jalen Green",
+    "team": "HOU",
+    "teamID": "22",
+    "jerseyNum": "4",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002669",
+    "longName": "Evan Mobley",
+    "team": "CLE",
+    "teamID": "12",
+    "jerseyNum": "4",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002670",
+    "longName": "Jalen Suggs",
+    "team": "ORL",
+    "teamID": "5",
+    "jerseyNum": "4",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002671",
+    "longName": "James Bouknight",
+    "team": "CHA",
+    "teamID": "2",
+    "jerseyNum": "2",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002673",
+    "longName": "Isaiah Jackson",
+    "team": "IND",
+    "teamID": "13",
+    "jerseyNum": "22",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002674",
+    "longName": "Ayo Dosunmu",
+    "team": "CHI",
+    "teamID": "11",
+    "jerseyNum": "12",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002675",
+    "longName": "Usman Garuba",
+    "team": "GS",
+    "teamID": "26",
+    "jerseyNum": "12",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002676",
+    "longName": "Tre Mann",
+    "team": "OKC",
+    "teamID": "18",
+    "jerseyNum": "23",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002677",
+    "longName": "Greg Brown",
+    "team": "DAL",
+    "teamID": "25",
+    "jerseyNum": "13",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002678",
+    "longName": "Neemias Queta",
+    "team": "BOS",
+    "teamID": "9",
+    "jerseyNum": "88",
+    "position": "C"
+  },
+  {
+    "playerID": "20002681",
+    "longName": "Quentin Grimes",
+    "team": "NY",
+    "teamID": "6",
+    "jerseyNum": "6",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002683",
+    "longName": "Jeremiah Robinson-Earl",
+    "team": "NO",
+    "teamID": "23",
+    "jerseyNum": "50",
+    "position": "C"
+  },
+  {
+    "playerID": "20002684",
+    "longName": "Luka Garza",
+    "team": "MIN",
+    "teamID": "16",
+    "jerseyNum": "55",
+    "position": "C"
+  },
+  {
+    "playerID": "20002686",
+    "longName": "Sam Hauser",
+    "team": "BOS",
+    "teamID": "9",
+    "jerseyNum": "30",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002688",
+    "longName": "Josh Christopher",
+    "team": "UTA",
+    "teamID": "17",
+    "jerseyNum": "13",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002690",
+    "longName": "Brandon Boston",
+    "team": "LAC",
+    "teamID": "28",
+    "jerseyNum": "4",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002691",
+    "longName": "Jericho Sims",
+    "team": "NY",
+    "teamID": "6",
+    "jerseyNum": "45",
+    "position": "C"
+  },
+  {
+    "playerID": "20002692",
+    "longName": "Miles McBride",
+    "team": "NY",
+    "teamID": "6",
+    "jerseyNum": "2",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002693",
+    "longName": "Isaiah Livers",
+    "team": "DET",
+    "teamID": "14",
+    "jerseyNum": "12",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002694",
+    "longName": "JT Thor",
+    "team": "CHA",
+    "teamID": "2",
+    "jerseyNum": "21",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002695",
+    "longName": "Joshua Primo",
+    "team": "LAC",
+    "teamID": "28",
+    "jerseyNum": "12",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002697",
+    "longName": "Day'Ron Sharpe",
+    "team": "BKN",
+    "teamID": "8",
+    "jerseyNum": "20",
+    "position": "C"
+  },
+  {
+    "playerID": "20002699",
+    "longName": "Herbert Jones",
+    "team": "NO",
+    "teamID": "23",
+    "jerseyNum": "5",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002700",
+    "longName": "Trey Murphy",
+    "team": "NO",
+    "teamID": "23",
+    "jerseyNum": "25",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002701",
+    "longName": "Bones Hyland",
+    "team": "LAC",
+    "teamID": "28",
+    "jerseyNum": "5",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002703",
+    "longName": "Charles Bassey",
+    "team": "SA",
+    "teamID": "24",
+    "jerseyNum": "28",
+    "position": "C"
+  },
+  {
+    "playerID": "20002708",
+    "longName": "Sandro Mamukelashvili",
+    "team": "SA",
+    "teamID": "24",
+    "jerseyNum": "54",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002709",
+    "longName": "Santi Aldama",
+    "team": "MEM",
+    "teamID": "21",
+    "jerseyNum": "7",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002711",
+    "longName": "Kessler Edwards",
+    "team": "SAC",
+    "teamID": "30",
+    "jerseyNum": "17",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002712",
+    "longName": "Dalano Banton",
+    "team": "BOS",
+    "teamID": "9",
+    "jerseyNum": "45",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002714",
+    "longName": "Aaron Wiggins",
+    "team": "OKC",
+    "teamID": "18",
+    "jerseyNum": "21",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002719",
+    "longName": "Duane Washington",
+    "team": "NY",
+    "teamID": "6",
+    "jerseyNum": "4",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002720",
+    "longName": "Austin Reaves",
+    "team": "LAL",
+    "teamID": "27",
+    "jerseyNum": "15",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002723",
+    "longName": "Trendon Watford",
+    "team": "BKN",
+    "teamID": "8",
+    "jerseyNum": "9",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002724",
+    "longName": "Javonte Smart",
+    "team": "PHI",
+    "teamID": "7",
+    "jerseyNum": "15",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002725",
+    "longName": "A.J. Lawson",
+    "team": "DAL",
+    "teamID": "25",
+    "jerseyNum": "9",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002727",
+    "longName": "Micah Potter",
+    "team": "UTA",
+    "teamID": "17",
+    "jerseyNum": "25",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002732",
+    "longName": "Jose Alvarado",
+    "team": "NO",
+    "teamID": "23",
+    "jerseyNum": "15",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002735",
+    "longName": "Jay Huff",
+    "team": "DEN",
+    "teamID": "20",
+    "jerseyNum": "30",
+    "position": "C"
+  },
+  {
+    "playerID": "20002736",
+    "longName": "Jordan Goodwin",
+    "team": "PHO",
+    "teamID": "29",
+    "jerseyNum": "0",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002738",
+    "longName": "Terry Taylor",
+    "team": "CHI",
+    "teamID": "11",
+    "jerseyNum": "32",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002749",
+    "longName": "Eugene Omoruyi",
+    "team": "WAS",
+    "teamID": "1",
+    "jerseyNum": "97",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002759",
+    "longName": "Dru Smith",
+    "team": "MIA",
+    "teamID": "4",
+    "jerseyNum": "9",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002766",
+    "longName": "Daishen Nix",
+    "team": "MIN",
+    "teamID": "16",
+    "jerseyNum": "12",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002789",
+    "longName": "Braxton Key",
+    "team": "DEN",
+    "teamID": "20",
+    "jerseyNum": "11",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002799",
+    "longName": "Ish Wainright",
+    "team": "POR",
+    "teamID": "19",
+    "jerseyNum": "23",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002836",
+    "longName": "Olivier Sarr",
+    "team": "OKC",
+    "teamID": "18",
+    "jerseyNum": "30",
+    "position": "C"
+  },
+  {
+    "playerID": "20002844",
+    "longName": "Matt Ryan",
+    "team": "NO",
+    "teamID": "23",
+    "jerseyNum": "37",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002855",
+    "longName": "Xavier Moon",
+    "team": "LAC",
+    "teamID": "28",
+    "jerseyNum": "9999",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002859",
+    "longName": "Lindy Waters",
+    "team": "OKC",
+    "teamID": "18",
+    "jerseyNum": "12",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002861",
+    "longName": "Ochai Agbaji",
+    "team": "UTA",
+    "teamID": "17",
+    "jerseyNum": "30",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002862",
+    "longName": "Patrick Baldwin",
+    "team": "WAS",
+    "teamID": "1",
+    "jerseyNum": "7",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002863",
+    "longName": "Paolo Banchero",
+    "team": "ORL",
+    "teamID": "5",
+    "jerseyNum": "5",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002864",
+    "longName": "Dominick Barlow",
+    "team": "SA",
+    "teamID": "24",
+    "jerseyNum": "26",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002865",
+    "longName": "MarJon Beauchamp",
+    "team": "MIL",
+    "teamID": "15",
+    "jerseyNum": "3",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002867",
+    "longName": "Malaki Branham",
+    "team": "SA",
+    "teamID": "24",
+    "jerseyNum": "22",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002868",
+    "longName": "Christian Braun",
+    "team": "DEN",
+    "teamID": "20",
+    "jerseyNum": "0",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002869",
+    "longName": "Kendall Brown",
+    "team": "IND",
+    "teamID": "13",
+    "jerseyNum": "10",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002870",
+    "longName": "Chet Holmgren",
+    "team": "OKC",
+    "teamID": "18",
+    "jerseyNum": "7",
+    "position": "C"
+  },
+  {
+    "playerID": "20002871",
+    "longName": "Jabari Smith",
+    "team": "HOU",
+    "teamID": "22",
+    "jerseyNum": "10",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002872",
+    "longName": "Jaden Ivey",
+    "team": "DET",
+    "teamID": "14",
+    "jerseyNum": "23",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002873",
+    "longName": "Keegan Murray",
+    "team": "SAC",
+    "teamID": "30",
+    "jerseyNum": "13",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002874",
+    "longName": "Shaedon Sharpe",
+    "team": "POR",
+    "teamID": "19",
+    "jerseyNum": "17",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002875",
+    "longName": "Jalen Duren",
+    "team": "DET",
+    "teamID": "14",
+    "jerseyNum": "0",
+    "position": "C"
+  },
+  {
+    "playerID": "20002876",
+    "longName": "AJ Griffin",
+    "team": "ATL",
+    "teamID": "3",
+    "jerseyNum": "14",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002877",
+    "longName": "Johnny Davis",
+    "team": "WAS",
+    "teamID": "1",
+    "jerseyNum": "1",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002878",
+    "longName": "Dyson Daniels",
+    "team": "NO",
+    "teamID": "23",
+    "jerseyNum": "11",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002879",
+    "longName": "Bennedict Mathurin",
+    "team": "IND",
+    "teamID": "13",
+    "jerseyNum": "0",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002880",
+    "longName": "Ousmane Dieng",
+    "team": "OKC",
+    "teamID": "18",
+    "jerseyNum": "13",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002881",
+    "longName": "Jeremy Sochan",
+    "team": "SA",
+    "teamID": "24",
+    "jerseyNum": "10",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002882",
+    "longName": "TyTy Washington",
+    "team": "MIL",
+    "teamID": "15",
+    "jerseyNum": "23",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002883",
+    "longName": "Tari Eason",
+    "team": "HOU",
+    "teamID": "22",
+    "jerseyNum": "17",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002884",
+    "longName": "Mark Williams",
+    "team": "CHA",
+    "teamID": "2",
+    "jerseyNum": "5",
+    "position": "C"
+  },
+  {
+    "playerID": "20002886",
+    "longName": "Blake Wesley",
+    "team": "SA",
+    "teamID": "24",
+    "jerseyNum": "14",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002887",
+    "longName": "E.J. Liddell",
+    "team": "NO",
+    "teamID": "23",
+    "jerseyNum": "32",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002888",
+    "longName": "Nikola Jovic",
+    "team": "MIA",
+    "teamID": "4",
+    "jerseyNum": "5",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002889",
+    "longName": "Walker Kessler",
+    "team": "UTA",
+    "teamID": "17",
+    "jerseyNum": "24",
+    "position": "C"
+  },
+  {
+    "playerID": "20002891",
+    "longName": "Jaden Hardy",
+    "team": "DAL",
+    "teamID": "25",
+    "jerseyNum": "1",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002893",
+    "longName": "Bryce McGowens",
+    "team": "CHA",
+    "teamID": "2",
+    "jerseyNum": "7",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002894",
+    "longName": "Christian Koloko",
+    "team": "TOR",
+    "teamID": "10",
+    "jerseyNum": "35",
+    "position": "C"
+  },
+  {
+    "playerID": "20002895",
+    "longName": "Wendell Moore",
+    "team": "MIN",
+    "teamID": "16",
+    "jerseyNum": "7",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002896",
+    "longName": "Jalen Williams",
+    "team": "OKC",
+    "teamID": "18",
+    "jerseyNum": "8",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002897",
+    "longName": "Dalen Terry",
+    "team": "CHI",
+    "teamID": "11",
+    "jerseyNum": "25",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002898",
+    "longName": "John Butler",
+    "team": "WAS",
+    "teamID": "1",
+    "jerseyNum": "19",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002899",
+    "longName": "Julian Champagnie",
+    "team": "SA",
+    "teamID": "24",
+    "jerseyNum": "30",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002900",
+    "longName": "Max Christie",
+    "team": "LAL",
+    "teamID": "27",
+    "jerseyNum": "10",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002902",
+    "longName": "JD Davison",
+    "team": "BOS",
+    "teamID": "9",
+    "jerseyNum": "20",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002903",
+    "longName": "Moussa Diabate",
+    "team": "LAC",
+    "teamID": "28",
+    "jerseyNum": "25",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002905",
+    "longName": "Keon Ellis",
+    "team": "SAC",
+    "teamID": "30",
+    "jerseyNum": "23",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002907",
+    "longName": "Ron Harper",
+    "team": "TOR",
+    "teamID": "10",
+    "jerseyNum": "8",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002908",
+    "longName": "Caleb Houstan",
+    "team": "ORL",
+    "teamID": "5",
+    "jerseyNum": "2",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002910",
+    "longName": "Jake LaRavia",
+    "team": "MEM",
+    "teamID": "21",
+    "jerseyNum": "3",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002911",
+    "longName": "Justin Lewis",
+    "team": "CHI",
+    "teamID": "11",
+    "jerseyNum": "34",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002912",
+    "longName": "Leonard Miller",
+    "team": "MIN",
+    "teamID": "16",
+    "jerseyNum": "33",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002913",
+    "longName": "Josh Minott",
+    "team": "MIN",
+    "teamID": "16",
+    "jerseyNum": "8",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002914",
+    "longName": "Andrew Nembhard",
+    "team": "IND",
+    "teamID": "13",
+    "jerseyNum": "2",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002916",
+    "longName": "David Roddy",
+    "team": "MEM",
+    "teamID": "21",
+    "jerseyNum": "21",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002917",
+    "longName": "Ryan Rollins",
+    "team": "WAS",
+    "teamID": "1",
+    "jerseyNum": "9",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002918",
+    "longName": "Dereon Seabron",
+    "team": "NO",
+    "teamID": "23",
+    "jerseyNum": "0",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002919",
+    "longName": "Jabari Walker",
+    "team": "POR",
+    "teamID": "19",
+    "jerseyNum": "34",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002920",
+    "longName": "Peyton Watson",
+    "team": "DEN",
+    "teamID": "20",
+    "jerseyNum": "8",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002921",
+    "longName": "Jaylin Williams",
+    "team": "OKC",
+    "teamID": "18",
+    "jerseyNum": "6",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002927",
+    "longName": "Vince Williams",
+    "team": "MEM",
+    "teamID": "21",
+    "jerseyNum": "5",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002928",
+    "longName": "Isaiah Mobley",
+    "team": "CLE",
+    "teamID": "12",
+    "jerseyNum": "15",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002933",
+    "longName": "Gui Santos",
+    "team": "GS",
+    "teamID": "26",
+    "jerseyNum": "15",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002935",
+    "longName": "Lester Quinones",
+    "team": "GS",
+    "teamID": "26",
+    "jerseyNum": "25",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002936",
+    "longName": "Cole Swider",
+    "team": "MIA",
+    "teamID": "4",
+    "jerseyNum": "21",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002937",
+    "longName": "Collin Gillespie",
+    "team": "DEN",
+    "teamID": "20",
+    "jerseyNum": "21",
+    "position": "PG"
+  },
+  {
+    "playerID": "20002939",
+    "longName": "Kenneth Lofton",
+    "team": "MEM",
+    "teamID": "21",
+    "jerseyNum": "6",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002942",
+    "longName": "Jamaree Bouyea",
+    "team": "POR",
+    "teamID": "19",
+    "jerseyNum": "21",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002944",
+    "longName": "Johnny Juzang",
+    "team": "UTA",
+    "teamID": "17",
+    "jerseyNum": "33",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002945",
+    "longName": "A.J. Green",
+    "team": "MIL",
+    "teamID": "15",
+    "jerseyNum": "20",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002947",
+    "longName": "Jermaine Samuels",
+    "team": "HOU",
+    "teamID": "22",
+    "jerseyNum": "0",
+    "position": "PF"
+  },
+  {
+    "playerID": "20002948",
+    "longName": "Jeenathan Williams",
+    "team": "HOU",
+    "teamID": "22",
+    "jerseyNum": "19",
+    "position": "SF"
+  },
+  {
+    "playerID": "20002971",
+    "longName": "Jared Rhoden",
+    "team": "DET",
+    "teamID": "14",
+    "jerseyNum": "8",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002975",
+    "longName": "Justin Minaya",
+    "team": "POR",
+    "teamID": "19",
+    "jerseyNum": "24",
+    "position": "SG"
+  },
+  {
+    "playerID": "20002981",
+    "longName": "Jacob Gilyard",
+    "team": "MEM",
+    "teamID": "21",
+    "jerseyNum": "0",
+    "position": "PG"
+  },
+  {
+    "playerID": "20003006",
+    "longName": "Javon Freeman-Liberty",
+    "team": "TOR",
+    "teamID": "10",
+    "jerseyNum": "0",
+    "position": "SG"
+  },
+  {
+    "playerID": "20003007",
+    "longName": "Orlando Robinson",
+    "team": "MIA",
+    "teamID": "4",
+    "jerseyNum": "25",
+    "position": "C"
+  },
+  {
+    "playerID": "20003008",
+    "longName": "Jamal Cain",
+    "team": "MIA",
+    "teamID": "4",
+    "jerseyNum": "8",
+    "position": "SF"
+  },
+  {
+    "playerID": "20003009",
+    "longName": "Simone Fontecchio",
+    "team": "UTA",
+    "teamID": "17",
+    "jerseyNum": "16",
+    "position": "SF"
+  },
+  {
+    "playerID": "20003015",
+    "longName": "Mouhamed Gueye",
+    "team": "ATL",
+    "teamID": "3",
+    "jerseyNum": "18",
+    "position": "PF"
+  },
+  {
+    "playerID": "20003022",
+    "longName": "Stanley Umude",
+    "team": "DET",
+    "teamID": "14",
+    "jerseyNum": "17",
+    "position": "SG"
+  },
+  {
+    "playerID": "20003031",
+    "longName": "Victor Wembanyama",
+    "team": "SA",
+    "teamID": "24",
+    "jerseyNum": "1",
+    "position": "PF"
+  },
+  {
+    "playerID": "20003032",
+    "longName": "Brandon Miller",
+    "team": "CHA",
+    "teamID": "2",
+    "jerseyNum": "24",
+    "position": "SF"
+  },
+  {
+    "playerID": "20003033",
+    "longName": "Scoot Henderson",
+    "team": "POR",
+    "teamID": "19",
+    "jerseyNum": "0",
+    "position": "PG"
+  },
+  {
+    "playerID": "20003034",
+    "longName": "Amen Thompson",
+    "team": "HOU",
+    "teamID": "22",
+    "jerseyNum": "1",
+    "position": "PG"
+  },
+  {
+    "playerID": "20003035",
+    "longName": "Jarace Walker",
+    "team": "IND",
+    "teamID": "13",
+    "jerseyNum": "5",
+    "position": "PF"
+  },
+  {
+    "playerID": "20003036",
+    "longName": "Ausar Thompson",
+    "team": "DET",
+    "teamID": "14",
+    "jerseyNum": "9",
+    "position": "SG"
+  },
+  {
+    "playerID": "20003037",
+    "longName": "Cam Whitmore",
+    "team": "HOU",
+    "teamID": "22",
+    "jerseyNum": "7",
+    "position": "SF"
+  },
+  {
+    "playerID": "20003038",
+    "longName": "Anthony Black",
+    "team": "ORL",
+    "teamID": "5",
+    "jerseyNum": "0",
+    "position": "PG"
+  },
+  {
+    "playerID": "20003039",
+    "longName": "Gradey Dick",
+    "team": "TOR",
+    "teamID": "10",
+    "jerseyNum": "1",
+    "position": "SG"
+  },
+  {
+    "playerID": "20003040",
+    "longName": "Taylor Hendricks",
+    "team": "UTA",
+    "teamID": "17",
+    "jerseyNum": "0",
+    "position": "PF"
+  },
+  {
+    "playerID": "20003041",
+    "longName": "Jordan Hawkins",
+    "team": "NO",
+    "teamID": "23",
+    "jerseyNum": "24",
+    "position": "SG"
+  },
+  {
+    "playerID": "20003042",
+    "longName": "Cason Wallace",
+    "team": "OKC",
+    "teamID": "18",
+    "jerseyNum": "22",
+    "position": "PG"
+  },
+  {
+    "playerID": "20003043",
+    "longName": "Nick Smith",
+    "team": "CHA",
+    "teamID": "2",
+    "jerseyNum": "8",
+    "position": "PG"
+  },
+  {
+    "playerID": "20003044",
+    "longName": "Keyonte George",
+    "team": "UTA",
+    "teamID": "17",
+    "jerseyNum": "3",
+    "position": "SG"
+  },
+  {
+    "playerID": "20003045",
+    "longName": "Jalen Hood-Schifino",
+    "team": "LAL",
+    "teamID": "27",
+    "jerseyNum": "0",
+    "position": "PG"
+  },
+  {
+    "playerID": "20003046",
+    "longName": "Noah Clowney",
+    "team": "BKN",
+    "teamID": "8",
+    "jerseyNum": "21",
+    "position": "PF"
+  },
+  {
+    "playerID": "20003047",
+    "longName": "Jett Howard",
+    "team": "ORL",
+    "teamID": "5",
+    "jerseyNum": "13",
+    "position": "SG"
+  },
+  {
+    "playerID": "20003048",
+    "longName": "Rayan Rupert",
+    "team": "POR",
+    "teamID": "19",
+    "jerseyNum": "72",
+    "position": "SG"
+  },
+  {
+    "playerID": "20003049",
+    "longName": "Kobe Bufkin",
+    "team": "ATL",
+    "teamID": "3",
+    "jerseyNum": "4",
+    "position": "PG"
+  },
+  {
+    "playerID": "20003050",
+    "longName": "Brice Sensabaugh",
+    "team": "UTA",
+    "teamID": "17",
+    "jerseyNum": "8",
+    "position": "SF"
+  },
+  {
+    "playerID": "20003052",
+    "longName": "Bilal Coulibaly",
+    "team": "WAS",
+    "teamID": "1",
+    "jerseyNum": "0",
+    "position": "SG"
+  },
+  {
+    "playerID": "20003054",
+    "longName": "Kris Murray",
+    "team": "POR",
+    "teamID": "19",
+    "jerseyNum": "8",
+    "position": "PF"
+  },
+  {
+    "playerID": "20003055",
+    "longName": "Dereck Lively",
+    "team": "DAL",
+    "teamID": "25",
+    "jerseyNum": "2",
+    "position": "C"
+  },
+  {
+    "playerID": "20003056",
+    "longName": "Dariq Whitehead",
+    "team": "BKN",
+    "teamID": "8",
+    "jerseyNum": "0",
+    "position": "SG"
+  },
+  {
+    "playerID": "20003057",
+    "longName": "Maxwell Lewis",
+    "team": "LAL",
+    "teamID": "27",
+    "jerseyNum": "21",
+    "position": "SF"
+  },
+  {
+    "playerID": "20003058",
+    "longName": "Colby Jones",
+    "team": "SAC",
+    "teamID": "30",
+    "jerseyNum": "20",
+    "position": "SG"
+  },
+  {
+    "playerID": "20003059",
+    "longName": "Andre Jackson",
+    "team": "MIL",
+    "teamID": "15",
+    "jerseyNum": "44",
+    "position": "SG"
+  },
+  {
+    "playerID": "20003060",
+    "longName": "Jaime Jaquez",
+    "team": "MIA",
+    "teamID": "4",
+    "jerseyNum": "11",
+    "position": "SF"
+  },
+  {
+    "playerID": "20003061",
+    "longName": "Terquavion Smith",
+    "team": "PHI",
+    "teamID": "7",
+    "jerseyNum": "23",
+    "position": "PG"
+  },
+  {
+    "playerID": "20003062",
+    "longName": "Sidy Cissoko",
+    "team": "SA",
+    "teamID": "24",
+    "jerseyNum": "25",
+    "position": "SF"
+  },
+  {
+    "playerID": "20003064",
+    "longName": "GG Jackson",
+    "team": "MEM",
+    "teamID": "21",
+    "jerseyNum": "45",
+    "position": "PF"
+  },
+  {
+    "playerID": "20003065",
+    "longName": "Trayce Jackson-Davis",
+    "team": "GS",
+    "teamID": "26",
+    "jerseyNum": "32",
+    "position": "PF"
+  },
+  {
+    "playerID": "20003066",
+    "longName": "Emoni Bates",
+    "team": "CLE",
+    "teamID": "12",
+    "jerseyNum": "21",
+    "position": "SF"
+  },
+  {
+    "playerID": "20003067",
+    "longName": "Olivier-Maxence Prosper",
+    "team": "DAL",
+    "teamID": "25",
+    "jerseyNum": "18",
+    "position": "PF"
+  },
+  {
+    "playerID": "20003068",
+    "longName": "Brandin Podziemski",
+    "team": "GS",
+    "teamID": "26",
+    "jerseyNum": "2",
+    "position": "SG"
+  },
+  {
+    "playerID": "20003069",
+    "longName": "Marcus Sasser",
+    "team": "DET",
+    "teamID": "14",
+    "jerseyNum": "25",
+    "position": "PG"
+  },
+  {
+    "playerID": "20003070",
+    "longName": "Ben Sheppard",
+    "team": "IND",
+    "teamID": "13",
+    "jerseyNum": "26",
+    "position": "SF"
+  },
+  {
+    "playerID": "20003071",
+    "longName": "Julian Strawther",
+    "team": "DEN",
+    "teamID": "20",
+    "jerseyNum": "3",
+    "position": "SF"
+  },
+  {
+    "playerID": "20003072",
+    "longName": "Kobe Brown",
+    "team": "LAC",
+    "teamID": "28",
+    "jerseyNum": "21",
+    "position": "PF"
+  },
+  {
+    "playerID": "20003073",
+    "longName": "Jalen Pickett",
+    "team": "DEN",
+    "teamID": "20",
+    "jerseyNum": "24",
+    "position": "SG"
+  },
+  {
+    "playerID": "20003074",
+    "longName": "Julian Phillips",
+    "team": "CHI",
+    "teamID": "11",
+    "jerseyNum": "15",
+    "position": "SF"
+  },
+  {
+    "playerID": "20003075",
+    "longName": "Hunter Tyson",
+    "team": "DEN",
+    "teamID": "20",
+    "jerseyNum": "4",
+    "position": "SF"
+  },
+  {
+    "playerID": "20003076",
+    "longName": "Jordan Walsh",
+    "team": "BOS",
+    "teamID": "9",
+    "jerseyNum": "27",
+    "position": "SF"
+  },
+  {
+    "playerID": "20003077",
+    "longName": "Amari Bailey",
+    "team": "CHA",
+    "teamID": "2",
+    "jerseyNum": "10",
+    "position": "PG"
+  },
+  {
+    "playerID": "20003080",
+    "longName": "Seth Lundy",
+    "team": "ATL",
+    "teamID": "3",
+    "jerseyNum": "3",
+    "position": "SG"
+  },
+  {
+    "playerID": "20003082",
+    "longName": "Jordan Miller",
+    "team": "LAC",
+    "teamID": "28",
+    "jerseyNum": "11",
+    "position": "SF"
+  },
+  {
+    "playerID": "20003083",
+    "longName": "Keyontae Johnson",
+    "team": "OKC",
+    "teamID": "18",
+    "jerseyNum": "18",
+    "position": "SF"
+  },
+  {
+    "playerID": "20003084",
+    "longName": "Jalen Wilson",
+    "team": "BKN",
+    "teamID": "8",
+    "jerseyNum": "22",
+    "position": "SF"
+  },
+  {
+    "playerID": "20003085",
+    "longName": "Toumani Camara",
+    "team": "POR",
+    "teamID": "19",
+    "jerseyNum": "33",
+    "position": "SF"
+  },
+  {
+    "playerID": "20003086",
+    "longName": "Jaylen Clark",
+    "team": "MIN",
+    "teamID": "16",
+    "jerseyNum": "0",
+    "position": "PG"
+  },
+  {
+    "playerID": "20003087",
+    "longName": "Jalen Slawson",
+    "team": "SAC",
+    "teamID": "30",
+    "jerseyNum": "18",
+    "position": "PF"
+  },
+  {
+    "playerID": "20003088",
+    "longName": "Isaiah Wong",
+    "team": "IND",
+    "teamID": "13",
+    "jerseyNum": "21",
+    "position": "PG"
+  },
+  {
+    "playerID": "20003090",
+    "longName": "Chris Livingston",
+    "team": "MIL",
+    "teamID": "15",
+    "jerseyNum": "7",
+    "position": "SF"
+  },
+  {
+    "playerID": "20003091",
+    "longName": "Sir'Jabari Rice",
+    "team": "SA",
+    "teamID": "24",
+    "jerseyNum": "11",
+    "position": "PG"
+  },
+  {
+    "playerID": "20003092",
+    "longName": "Colin Castleton",
+    "team": "LAL",
+    "teamID": "27",
+    "jerseyNum": "14",
+    "position": "C"
+  },
+  {
+    "playerID": "20003094",
+    "longName": "D'Moi Hodge",
+    "team": "LAL",
+    "teamID": "27",
+    "jerseyNum": "55",
+    "position": "PG"
+  },
+  {
+    "playerID": "20003095",
+    "longName": "Markquis Nowell",
+    "team": "TOR",
+    "teamID": "10",
+    "jerseyNum": "24",
+    "position": "PG"
+  },
+  {
+    "playerID": "20003096",
+    "longName": "Ricky Council",
+    "team": "PHI",
+    "teamID": "7",
+    "jerseyNum": "16",
+    "position": "SG"
+  },
+  {
+    "playerID": "20003100",
+    "longName": "Alex Fudge",
+    "team": "LAL",
+    "teamID": "27",
+    "jerseyNum": "17",
+    "position": "SF"
+  },
+  {
+    "playerID": "20003103",
+    "longName": "Adama Sanogo",
+    "team": "CHI",
+    "teamID": "11",
+    "jerseyNum": "21",
+    "position": "C"
+  },
+  {
+    "playerID": "20003107",
+    "longName": "Jacob Toppin",
+    "team": "NY",
+    "teamID": "6",
+    "jerseyNum": "0",
+    "position": "SF"
+  },
+  {
+    "playerID": "20003112",
+    "longName": "Charles Bediako",
+    "team": "SA",
+    "teamID": "24",
+    "jerseyNum": "27",
+    "position": "C"
+  },
+  {
+    "playerID": "20003120",
+    "longName": "Miles Norris",
+    "team": "ATL",
+    "teamID": "3",
+    "jerseyNum": "0",
+    "position": "PF"
+  },
+  {
+    "playerID": "20003130",
+    "longName": "Oscar Tshiebwe",
+    "team": "IND",
+    "teamID": "13",
+    "jerseyNum": "44",
+    "position": "C"
+  },
+  {
+    "playerID": "20003133",
+    "longName": "Craig Porter",
+    "team": "CLE",
+    "teamID": "12",
+    "jerseyNum": "9",
+    "position": "PG"
+  },
+  {
+    "playerID": "20003141",
+    "longName": "Leaky Black",
+    "team": "CHA",
+    "teamID": "2",
+    "jerseyNum": "12",
+    "position": "SF"
+  },
+  {
+    "playerID": "20003150",
+    "longName": "Malcolm Cazalon",
+    "team": "DET",
+    "teamID": "14",
+    "jerseyNum": "20",
+    "position": "SG"
+  },
+  {
+    "playerID": "20003151",
+    "longName": "Onuralp Bitim",
+    "team": "CHI",
+    "teamID": "11",
+    "jerseyNum": "17",
+    "position": "SG"
+  },
+  {
+    "playerID": "20003153",
+    "longName": "Dexter Dennis",
+    "team": "DAL",
+    "teamID": "25",
+    "jerseyNum": "17",
+    "position": "SG"
+  }
+]
