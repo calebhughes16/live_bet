@@ -20,7 +20,7 @@ const fetchEventMapping = async () => {
 }
 
 const fetchWeeklyEventsNFL = async () => {
-    return axios.get(`${process.env.ODDS_API_BASEURL}/${process.env.LOCALE}/competitions/${NFL_COMPETITION_ID}/schedules.json?api_key=${process.env.ODD_API_KEY}`)
+    return axios.get(`${process.env.ODDS_API_BASEURL}/${process.env.LOCALE}/competitions/${process.env.NFL_COMPETITION_ID}/schedules.json?api_key=${process.env.ODD_API_KEY}`)
         .then(response => {
             const events = response.data.schedules;
 
